@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://GoneMobileCast.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://gonemobilecast.com
+title: Gone Mobile Podcast
+subtitle: If it's not mobile we don't talk about it.
+author: Mobilers
 simple_search: http://google.com/search
 description:
 
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: GoneMobileCast
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: gonemobilecast
 twitter_tweet_button: true
 
 # Google +1
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: gonemobile
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-6465612-22
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
