@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile Podcast]]></title>
   <link href="http://gonemobilecast.com/atom.xml" rel="self"/>
   <link href="http://gonemobilecast.com/"/>
-  <updated>2013-08-26T15:54:15-04:00</updated>
+  <updated>2013-08-26T15:55:06-04:00</updated>
   <id>http://gonemobilecast.com/</id>
   <author>
     <name><![CDATA[Mobilers]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://gonemobilecast.com/blog/2013/08/26/hello-world/"/>
+    <link href="http://gonemobilecast.com/blog/hello-world/"/>
     <updated>2013-08-26T15:53:00-04:00</updated>
-    <id>http://gonemobilecast.com/blog/2013/08/26/hello-world</id>
+    <id>http://gonemobilecast.com/blog/hello-world</id>
     <content type="html"><![CDATA[<p>This is a test of the Gone Mobile broadcasting system.</p>
 
 <p>This is only a test!</p>
