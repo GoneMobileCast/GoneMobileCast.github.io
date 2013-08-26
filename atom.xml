@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Gone Mobile Podcast]]></title>
-  <link href="http://GoneMobileCast.github.io/atom.xml" rel="self"/>
-  <link href="http://GoneMobileCast.github.io/"/>
-  <updated>2013-08-26T15:34:51-04:00</updated>
-  <id>http://GoneMobileCast.github.io/</id>
+  <link href="http://gonemobilecast.com/atom.xml" rel="self"/>
+  <link href="http://gonemobilecast.com/"/>
+  <updated>2013-08-26T15:39:48-04:00</updated>
+  <id>http://gonemobilecast.com/</id>
   <author>
     <name><![CDATA[Mobilers]]></name>
     

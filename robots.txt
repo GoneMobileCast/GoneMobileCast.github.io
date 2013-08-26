@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://GoneMobileCast.github.io/sitemap.xml 
+Sitemap: http://gonemobilecast.com/sitemap.xml 
