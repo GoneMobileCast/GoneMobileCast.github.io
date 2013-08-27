@@ -1,0 +1,20 @@
+/* TEAM */
+Author: Mobilers
+Site: 
+Twitter: https://www.twitter.com/gonemobilecast
+Github: https://www.github.com/GoneMobileCast
+
+/* THANKS */
+Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
+  -- Twitter: https://www.twitter.com/coog_ie
+  -- Github: https://www.github.com/coogie
+  -- Website: http://www.coog.ie/
+
+/* COLOPHON */
+Components:
+  -- inuit.css (http://inuitcss.com/)
+  -- Navigataur (https://github.com/micjamking/Navigataur/)
+  -- Font Awesome (https://fortawesome.github.com/Font-Awesome/)
+Powered by:
+  -- Jekyll
+  -- Octopress
