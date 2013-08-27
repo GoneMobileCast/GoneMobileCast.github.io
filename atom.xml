@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Gone Mobile Podcast]]></title>
-  <link href="http://gonemobilecast.com/atom.xml" rel="self"/>
-  <link href="http://gonemobilecast.com/"/>
-  <updated>2013-08-26T20:26:56-04:00</updated>
-  <id>http://gonemobilecast.com/</id>
+  <link href="http://gonemobile.io/atom.xml" rel="self"/>
+  <link href="http://gonemobile.io/"/>
+  <updated>2013-08-27T13:32:21-04:00</updated>
+  <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://gonemobilecast.com/blog/hello-world/"/>
+    <link href="http://gonemobile.io/blog/hello-world/"/>
     <updated>2013-08-26T15:53:00-04:00</updated>
-    <id>http://gonemobilecast.com/blog/hello-world</id>
+    <id>http://gonemobile.io/blog/hello-world</id>
     <content type="html"><![CDATA[<p>This is a test of the Gone Mobile broadcasting system.</p>
 
 <p>This is only a test!</p>

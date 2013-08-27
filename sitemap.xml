@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://gonemobilecast.com/blog/hello-world/</loc>
+        <loc>http://gonemobile.io/blog/hello-world/</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/blog/archives/</loc>
+        <loc>http://gonemobile.io/blog/archives/</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/blog/</loc>
+        <loc>http://gonemobile.io/blog/</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/humans.txt</loc>
+        <loc>http://gonemobile.io/humans.txt</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/</loc>
+        <loc>http://gonemobile.io/</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/index2.html</loc>
+        <loc>http://gonemobile.io/index2.html</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
     <url>
-        <loc>http://gonemobilecast.com/robots.txt</loc>
+        <loc>http://gonemobile.io/robots.txt</loc>
         <lastmod>2013-08-26T20:25:56-04:00</lastmod>
     </url>
 </urlset>
