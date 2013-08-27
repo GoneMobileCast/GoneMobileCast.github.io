@@ -2,7 +2,7 @@
 Author: Gone Mobile Podcast
 Site: 
 Twitter: https://www.twitter.com/gonemobilecast
-Github: https://www.github.com/GoneMobileCast
+
 
 /* THANKS */
 Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
