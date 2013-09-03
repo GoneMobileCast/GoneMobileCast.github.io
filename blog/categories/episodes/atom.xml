@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Gone Mobile]]></title>
-  <link href="http://gonemobile.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: episodes | Gone Mobile]]></title>
+  <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
   <updated>2013-09-03T12:49:28-04:00</updated>
   <id>http://gonemobile.io/</id>
@@ -20,7 +20,7 @@
     <id>http://gonemobile.io/blog/e0001-hello-world</id>
     <content type="html"><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Balmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
 
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Links:</strong></p>
 
