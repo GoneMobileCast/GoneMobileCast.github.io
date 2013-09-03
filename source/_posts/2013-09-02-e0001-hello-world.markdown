@@ -8,6 +8,8 @@ categories: episodes
 
 Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!
 
+***NOTE:*** We have already submitted the podcast to iTunes, Stitcher, Blubrry, Miro and are awaiting their approval.  They should be available from those directories soon!  If we've missed one, please let us know! [@gonemobilecast](http://twitter.com/gonemobilecast).  For now, you can use the [Direct Podcast RSS Feed Link](http://gonemobile.libsyn.com/rss) to subscribe using your favorite podcast player!
+
 <!-- more -->
 
 {% audio http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3 %}
