@@ -6,7 +6,7 @@ comments: true
 categories: episodes
 ---
 
-Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Balmer, Why .NET Failed, Wearable tech, and Leap Motion!
+Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!
 
 <!-- more -->
 
