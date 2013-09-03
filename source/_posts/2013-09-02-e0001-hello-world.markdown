@@ -16,9 +16,9 @@ Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, W
 
 **Links:**
 
- - [Xamarin Podcast](https://github.com/GoneMobileCast/GoneMobileCast.github.io/commit/e9a992a0deeb1d5babce64a11a113722e316c7ac)
+ - [Xamarin Podcast](https://itunes.apple.com/us/podcast/xamarin-podcast/id691368176)
  - [iOS 7](http://www.apple.com/ios/ios7/)
- - [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/#netflix)
+ - [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/)
  - [Why Microsoft .NET Failed](http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817)
  - [LeapMotion](https://www.leapmotion.com/)
  
