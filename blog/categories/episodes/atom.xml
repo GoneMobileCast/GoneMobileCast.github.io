@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-09-03T12:49:28-04:00</updated>
+  <updated>2013-09-03T13:55:17-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -20,7 +20,12 @@
     <id>http://gonemobile.io/blog/e0001-hello-world</id>
     <content type="html"><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Balmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
 
+<!-- more -->
+
+
 <p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> Greg Shackles (<a href="http://twitter.com/gshackles">@gshackles</a>), Nic Wise (<a href="http://twitter.com/fastchicken">@fastchicken</a>), Jon Dick (<a href="http://twitter.com/redth">@redth</a>)</p>
 
 <p><strong>Links:</strong></p>
 
