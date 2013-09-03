@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-09-03T14:15:39-04:00</updated>
+  <updated>2013-09-03T14:27:19-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -18,7 +18,7 @@
     <link href="http://gonemobile.io/blog/e0001-hello-world/"/>
     <updated>2013-09-02T12:19:00-04:00</updated>
     <id>http://gonemobile.io/blog/e0001-hello-world</id>
-    <content type="html"><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Balmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
+    <content type="html"><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
 
 <!-- more -->
 
@@ -30,7 +30,11 @@
 <p><strong>Links:</strong></p>
 
 <ul>
-<li>Why Microsoft .NET Failed: <a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817">http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817</a></li>
+<li><a href="https://github.com/GoneMobileCast/GoneMobileCast.github.io/commit/e9a992a0deeb1d5babce64a11a113722e316c7ac">Xamarin Podcast</a></li>
+<li><a href="http://www.apple.com/ios/ios7/">iOS 7</a></li>
+<li><a href="http://www.google.com/intl/en/chrome/devices/chromecast/#netflix">Chromecast</a></li>
+<li><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817">Why Microsoft .NET Failed</a></li>
+<li><a href="https://www.leapmotion.com/">LeapMotion</a></li>
 </ul>
 
 ]]></content>
