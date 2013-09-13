@@ -16,8 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-#subscribe_rss: /atom.xml
-subscribe_rss: http://gonemobile.libsyn.com/rss
+subscribe_rss: /atom.xml
+#subscribe_rss: http://gonemobile.libsyn.com/rss
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
