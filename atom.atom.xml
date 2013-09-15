@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: episodes | Gone Mobile]]></title>
-  <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
+  <title><![CDATA[Gone Mobile]]></title>
+  <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
   <updated>2013-09-15T14:46:49-04:00</updated>
   <id>http://gonemobile.io/</id>
@@ -25,7 +25,7 @@
 <!-- more -->
 
 
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Hosts:</strong> Greg Shackles (<a href="http://twitter.com/gshackles">@gshackles</a>), Nic Wise (<a href="http://twitter.com/fastchicken">@fastchicken</a>), Jon Dick (<a href="http://twitter.com/redth">@redth</a>)</p>
 
