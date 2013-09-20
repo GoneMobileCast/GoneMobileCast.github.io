@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-09-15T14:46:49-04:00</updated>
+  <updated>2013-09-20T16:07:37-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 2: iOS7 Loving the Tint]]></title>
+    <link href="http://gonemobile.io/blog/e0002-ios7-loving-the-tint/"/>
+    <updated>2013-09-20T15:55:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0002-ios7-loving-the-tint</id>
+    <content type="html"><![CDATA[<p>What&rsquo;s new in iOS7? In this episode, we talk to <a href="http://twitter.com/mikebluestein">Mike Bluestein</a> from Xamarin to hear his thoughts on some of the new iOS7 API&rsquo;s such as UIKit Dynamics, Sprite Kit, Text Kit and more!  We also debate the merits of the new iPhone 5C, and discuss the other new hardware including Touch ID.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a>, <a href="http://twitter.com/jtclancey">James Clancey</a></p>
+
+<p><strong>Guests:</strong> <a href="http://twitter.com/mikebluestein">Mike Bluestein</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://www.gmusicapp.com/">gMusic</a></li>
+<li><a href="http://www.apple.com/ios/what-is/">iOS 7</a></li>
+<li><a href="Before%20and%20After%20Pics%20https://tapfame.com/ios7/">iOS 7</a></li>
+<li><a href="https://github.com/xamarin/monotouch-samples/tree/master/DynamicsCatalog">UIKit Dynamics</a></li>
+<li><a href="http://docs.xamarin.com/releases/ios/api_changes/from_6.4.5_to_7.0.0">API Changes</a></li>
+<li><a href="http://docs.xamarin.com/samples/ios/SpriteKit">Sprite Kit</a></li>
+<li><a href="https://developer.apple.com/library/ios/documentation/ServicesDiscovery/Conceptual/GameControllerPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013276">Game Controllers</a></li>
+<li><a href="http://cocos2dxna.codeplex.com/">Cocos2d For XNA</a></li>
+<li><a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a></li>
+<li><a href="https://developer.apple.com/library/mac/documentation/3DDrawing/Conceptual/SceneKit_PG/Introduction/Introduction.html">Scene Kit</a></li>
+<li><a href="http://gigaom.com/2013/09/10/with-ibeacon-apple-is-going-to-dump-on-nfc-and-embrace-the-internet-of-things/">With iBeacon, Apple is going to dump on NFC and embrace the internet of things</a></li>
+<li><a href="https://www.paypal.com/webapps/mpp/beacon">PayPal Beacon</a></li>
+<li><a href="http://googlecommerce.blogspot.com/2013/09/now-google-wallet-app-for-iphone.html">Now, a Google Wallet app for iPhone</a></li>
+<li><a href="http://www.apple.com/iphone-5s/videos/#video-touch">Touch ID</a></li>
+<li><a href="http://www.apple.com/iphone-5c/">iPhone 5C</a></li>
+<li><a href="http://www.apple.com/iphone-5s/">iPhone 5S</a></li>
+<li><a href="http://docs.xamarin.com/guides/cross-platform/application_fundamentals/backgrounding">Backgrounding</a></li>
+<li><a href="https://github.com/xamarin/monotouch-samples/tree/master/TextKitDemo">Text Kit</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 1: Hello World]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Gone Mobile]]></title>
-  <link href="http://gonemobile.io/atom.xml" rel="self"/>
+  <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
   <updated>2013-09-20T16:07:37-04:00</updated>
   <id>http://gonemobile.io/</id>
