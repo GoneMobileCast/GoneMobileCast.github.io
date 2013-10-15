@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-10-01T14:33:30-04:00</updated>
+  <updated>2013-10-15T11:00:14-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 4: Tracking Errors with Raygun]]></title>
+    <link href="http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/"/>
+    <updated>2013-10-14T10:52:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0004-tracking-errors-with-raygun</id>
+    <content type="html"><![CDATA[<p>We sit down with John-Daniel Trask and Jeremy Boyd of Mindscape to talk about their Error Reporting service Raygun.io and how it fits in with Mobile and Xamarin apps.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/traskjd">John-Daniel Trask</a>, <a href="https://twitter.com/turtlespin">Jeremy Boyd</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://raygun.io">Raygun.io</a></li>
+<li><a href="http://www.mindscapehq.com/">Mindscape</a></li>
+<li><a href="https://components.xamarin.com/view/raygun4net/">Raygun Xamarin Component</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 3: Bettsing on Reactive]]></title>
