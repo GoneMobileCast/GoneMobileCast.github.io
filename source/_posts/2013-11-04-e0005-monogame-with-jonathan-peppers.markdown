@@ -19,6 +19,7 @@ We sit down with Jonathan Peppers from Hitcents to talk about writing Games usin
 **Links:** 
 
 - [MonoGame](http://monogame.net)
+- [MonoGame Adventure - Draw a Stickman: EPIC](http://blog.hitcents.com/blog/post/draw-stickman-epic-monogame-adventure) a blog post about Hitcents' experience with MonoGame in building their successful app!
 - [Hitcents](http://hitcents.com)
 - [Battlepillars](http://www.hitcents.com/games/battlepillars)
 - [Draw a Stickman Epic](http://www.hitcents.com/games/stickman-epic)
