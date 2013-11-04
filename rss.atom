@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-10-15T11:01:51-04:00</updated>
+  <updated>2013-11-04T15:10:36-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 5: MonoGame with Jonathan Peppers]]></title>
+    <link href="http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers/"/>
+    <updated>2013-11-04T15:00:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers</id>
+    <content type="html"><![CDATA[<p>We sit down with Jonathan Peppers from Hitcents to talk about writing Games using MonoGame and Xamarin for iOS, Android, Windows and more!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0005.MonoGame.Jonathan.Peppers.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> Jonathan Peppers(<a href="https://twitter.com/jonathanpeppers">https://twitter.com/jonathanpeppers</a>)</p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://monogame.net">MonoGame</a></li>
+<li><a href="http://hitcents.com">Hitcents</a></li>
+<li><a href="http://www.hitcents.com/games/battlepillars">Battlepillars</a></li>
+<li><a href="http://www.hitcents.com/games/stickman-epic">Draw a Stickman Epic</a></li>
+<li><a href="http://www.hitcents.com/games/harlem-shake">Harlem Shake App</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 4: Tracking Errors with Raygun]]></title>
