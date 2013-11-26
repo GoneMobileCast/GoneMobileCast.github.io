@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-11-04T15:16:41-05:00</updated>
+  <updated>2013-11-26T14:02:09-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 6: Jesse Liberty and Xamarin.Android]]></title>
+    <link href="http://gonemobile.io/blog/e0006-jesse-liberty-xamarin-android/"/>
+    <updated>2013-11-26T15:30:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0006-jesse-liberty-xamarin-android</id>
+    <content type="html"><![CDATA[<p>Jesse Liberty talks to us about his recent ventures into Mobile development with Xamarin.Android!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0006.Jesse.Liberty.Xamarin.Android.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/JesseLiberty">Jesse Liberty</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://jesseliberty.com/">Jesse&rsquo;s Blog</a></li>
+<li><a href="http://blog.falafel.com/Blogs/jesseliberty/jesse-liberty/2013/09/25/learning-xamarin-for-android-table-of-contents">Jesse&rsquo;s mini-series Blogging on Learning Xamarin.Android</a></li>
+<li><a href="http://falafel.com/">Falafel Software</a></li>
+<li><a href="http://www.genymotion.com/">GenyMotion Android Emulator</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920024002.do">Book: Mobile Development with C#</a></li>
+<li><a href="http://www.amazon.com/gp/product/1118026438/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118026438&amp;linkCode=as2&amp;tag=red082-20">Book: Professional Android Programming with Mono for Android and .NET/C#</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 5: MonoGame with Jonathan Peppers]]></title>
