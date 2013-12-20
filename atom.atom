@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-11-26T14:02:09-05:00</updated>
+  <updated>2013-12-19T20:38:11-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 7: The F# is for Frank Krueger]]></title>
+    <link href="http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger/"/>
+    <updated>2013-12-19T20:14:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger</id>
+    <content type="html"><![CDATA[<p>We force Frank Krueger to talk to us about F#!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0007.The.FSharp.Is.For.Frank.Krueger.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/praeclarum">Frank Krueger</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://praeclarum.org/">Frank&rsquo;s Site/Blog</a></li>
+<li><a href="https://soundcloud.com/xamarin-podcast">Xamarin Podcast</a></li>
+<li><a href="http://icircuitapp.com/">iCircuit</a></li>
+<li><a href="http://7sharpnine.com/">Dave Thomas</a></li>
+<li><a href="http://calca.io/">Calca</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 6: Jesse Liberty and Xamarin.Android]]></title>
