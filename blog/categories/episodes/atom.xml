@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2013-12-19T20:38:11-05:00</updated>
+  <updated>2014-01-24T09:14:20-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 8: Ben Bishop's Monkey Arms]]></title>
+    <link href="http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms/"/>
+    <updated>2014-01-24T09:00:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms</id>
+    <content type="html"><![CDATA[<p>Ben&rsquo;s been working on an interesting new framework called Monkey Arms which is inspired by Robot Legs for Flash.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/benjamminstl">Ben Bishop</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://github.com/benbishop/MonkeyArms">Monkey Arms</a></li>
+<li><a href="http://www.robotlegs.org/">Robot Legs (Flash)</a></li>
+<li><a href="https://github.com/benbishop/MonkeyArmsAddressBook">Address Book Sample</a></li>
+<li><a href="http://www.nuget.org/packages/MonkeyArms/">NuGet Package</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 7: The F# is for Frank Krueger]]></title>
@@ -124,37 +152,6 @@
 <li><a href="http://raygun.io">Raygun.io</a></li>
 <li><a href="http://www.mindscapehq.com/">Mindscape</a></li>
 <li><a href="https://components.xamarin.com/view/raygun4net/">Raygun Xamarin Component</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 3: Bettsing on Reactive]]></title>
-    <link href="http://gonemobile.io/blog/e0003-bettsing-on-reactive/"/>
-    <updated>2013-10-01T11:51:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0003-bettsing-on-reactive</id>
-    <content type="html"><![CDATA[<p>Paul Betts talks with us about all things Reactive: Reactive Extensions (Rx), Reactive UI (RxUI), and how they fit together in a Microsoft and Xamarin mobile world.  Paul also discusses his Akavache and Splat libraries, and his new Live-coding experiment!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a>, <a href="http://twitter.com/jtclancey">James Clancey</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/paulcbetts">Paul Betts</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://rx.codeplex.com/">Reactive Extensions</a></li>
-<li><a href="http://www.reactiveui.net/">Reactive UI</a></li>
-<li><a href="https://github.com/paulcbetts">Paul&rsquo;s GitHub</a></li>
-<li><a href="https://github.com/github/akavache">Akavache</a> &ndash; An asynchronous, persistent key-value store</li>
-<li><a href="https://github.com/paulcbetts/splat">Splat</a> &ndash; A library to make things cross-platform that should be</li>
-<li><a href="https://github.com/paulcbetts/refit">Refit</a> &ndash; The automatic type-safe REST library for Xamarin and .NET</li>
-<li><a href="http://log.paulbetts.org/rxui-live-october-1st/">RxUI Live</a> &ndash; Watch Paul Live-Code!</li>
 </ul>
 
 ]]></content>
