@@ -14,7 +14,7 @@ John Sonmez talks to us about the importance of building a strong personal brand
 
 **Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
 
-**Guests:** [Jesse Liberty](https://twitter.com/jsonmez)
+**Guests:** [John Sonmez](https://twitter.com/jsonmez)
 
 **Links:** 
 
