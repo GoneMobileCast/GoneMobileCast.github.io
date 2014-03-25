@@ -10,11 +10,11 @@
     </url>
     <url>
         <loc>http://gonemobile.io/blog/e0003-bettsing-on-reactive/</loc>
-        <lastmod>2013-10-01T14:16:38-04:00</lastmod>
+        <lastmod>2013-10-01T12:00:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/</loc>
-        <lastmod>2013-10-15T11:01:41-04:00</lastmod>
+        <lastmod>2013-10-15T10:59:57-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers/</loc>
@@ -26,7 +26,7 @@
     </url>
     <url>
         <loc>http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger/</loc>
-        <lastmod>2013-12-19T20:32:10-05:00</lastmod>
+        <lastmod>2013-12-19T20:19:21-05:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms/</loc>
@@ -37,16 +37,20 @@
         <lastmod>2014-02-06T11:55:04-05:00</lastmod>
     </url>
     <url>
+        <loc>http://gonemobile.io/blog/e0010-couchbase-lite/</loc>
+        <lastmod>2014-03-25T08:27:27-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://gonemobile.io/atom.atom</loc>
         <lastmod>2013-09-15T14:39:30-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/blog/archives/</loc>
-        <lastmod>2014-02-06T11:55:04-05:00</lastmod>
+        <lastmod>2014-03-25T08:27:27-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/blog/</loc>
-        <lastmod>2014-02-06T11:55:04-05:00</lastmod>
+        <lastmod>2014-03-25T08:27:27-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/humans.txt</loc>
@@ -54,7 +58,7 @@
     </url>
     <url>
         <loc>http://gonemobile.io/</loc>
-        <lastmod>2014-02-06T11:55:04-05:00</lastmod>
+        <lastmod>2014-03-25T08:27:27-04:00</lastmod>
     </url>
     <url>
         <loc>http://gonemobile.io/index2.html</loc>

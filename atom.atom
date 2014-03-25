@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-02-06T11:55:19-05:00</updated>
+  <updated>2014-03-25T08:55:19-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 10: Marketing Yourself with John Sonmez]]></title>
+    <link href="http://gonemobile.io/blog/e0010-couchbase-lite/"/>
+    <updated>2014-03-25T09:00:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0010-couchbase-lite</id>
+    <content type="html"><![CDATA[<p>Wayne Carter from Couchbase and Zack Gramana from Xamarin talk to us about Couchbase Lite for Mobile.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0010.Couchbase.Lite.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/waynecarter">Wayne Carter</a>, <a href="https://twitter.com/zgramana">Zack Gramana</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://www.couchbase.com/mobile">Couchbase Lite</a></li>
+<li><a href="http://blog.couchbase.com/n1ql-it-makes-cents">N1QL &ndash; New Query language</a></li>
+<li><a href="https://blog.couchbase.com/get-started-couchbase-mobile">Getting started guide</a></li>
+<li><a href="https://components.xamarin.com/view/couchbase-lite">Couchbase Lite Xamarin Component</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 9: Marketing Yourself with John Sonmez]]></title>
