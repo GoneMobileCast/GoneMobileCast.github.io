@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-05-05T10:58:13-04:00</updated>
+  <updated>2014-06-02T07:14:42-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 12: AppLinks are Riveting]]></title>
+    <link href="http://gonemobile.io/blog/e0012-AppLinks-are-Riveting/"/>
+    <updated>2014-05-30T09:00:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0012-AppLinks-are-Riveting</id>
+    <content type="html"><![CDATA[<p>Find out what exactly AppLinks are, how they work, and how you can use Rivets to add support for them to your own .NET apps.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0012.AppLinks.are.Riveting.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/Redth">Jon Dick</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://applinks.org">AppLinks.org</a></li>
+<li><a href="http://blog.xamarin.com/creating-connected-app-experiences-with-app-links-and-rivets-with-xamarin/">Xamarin Blog: Creating Connected App Expereinces with AppLinks and Rivets</a></li>
+<li><a href="http://redth.codes/what-are-app-links/">Redth Blog: What are AppLinks?</a></li>
+<li><a href="https://github.com/Redth/Rivets">Rivets &ndash; AppLinks for .NET</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 11: Portable Class Libraries (PCL's) with James Montemagno]]></title>
