@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-07-14T09:14:52-04:00</updated>
+  <updated>2014-07-28T10:20:27-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 14: Building Apps on the Cheap]]></title>
+    <link href="http://gonemobile.io/blog/e0014-building-apps-on-the-cheap/"/>
+    <updated>2014-07-28T10:00:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0014-building-apps-on-the-cheap</id>
+    <content type="html"><![CDATA[<p>Not every app has to have a massive budget.  Kevin Knoop joins us this episode to talk about his experiences with building apps on the cheap.  You&rsquo;ll be surprised how little his House Alarm app costs him to run!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0014.Building.Apps.on.the.Cheap.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/deapsquatter">Kevin Knoop</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://housealarm.io">House Alarm App</a></li>
+<li><a href="https://www.digitalocean.com/">Digital Ocean Hosting</a></li>
+<li><a href="http://www.appannie.com">App Annie</a></li>
+<li><a href="http://www.fiverr.com">Fiverr</a></li>
+<li><a href="http://urbanairship.com">Urban Airship</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 13: Xamarin.Forms]]></title>
