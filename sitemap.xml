@@ -1,95 +1,170 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://gonemobile.io/blog/e0001-hello-world/</loc>
-        <lastmod>2013-09-13T15:11:58-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0002-ios7-loving-the-tint/</loc>
-        <lastmod>2013-09-20T15:59:47-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0003-bettsing-on-reactive/</loc>
-        <lastmod>2013-10-01T12:00:25-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/</loc>
-        <lastmod>2013-10-15T10:59:57-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers/</loc>
-        <lastmod>2013-11-04T15:16:26-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0006-jesse-liberty-xamarin-android/</loc>
-        <lastmod>2013-11-26T13:41:06-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger/</loc>
-        <lastmod>2013-12-19T20:19:21-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms/</loc>
-        <lastmod>2014-01-24T08:55:27-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0009-marketing-yourself-with-john-sonmez/</loc>
-        <lastmod>2014-02-06T11:55:04-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0010-couchbase-lite/</loc>
-        <lastmod>2014-03-25T08:57:37-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0011-portable-class-libraries-with-james-montemagno/</loc>
-        <lastmod>2014-05-05T10:57:26-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0012-AppLinks-are-Riveting/</loc>
-        <lastmod>2014-05-29T17:25:55-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0013-xamarin-forms/</loc>
-        <lastmod>2014-07-11T11:13:18-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0014-building-apps-on-the-cheap/</loc>
-        <lastmod>2014-07-28T10:09:56-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0015-Azure-Mobile-Services/</loc>
-        <lastmod>2014-08-27T08:58:58-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/e0016-iBeacons/</loc>
-        <lastmod>2014-09-08T09:53:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/atom.atom</loc>
-        <lastmod>2013-09-15T14:39:30-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/archives/</loc>
-        <lastmod>2014-09-08T09:53:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/blog/</loc>
-        <lastmod>2014-09-08T09:53:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/humans.txt</loc>
-        <lastmod>2013-08-27T13:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/</loc>
-        <lastmod>2014-09-08T09:53:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/index2.html</loc>
-        <lastmod>2013-08-27T13:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gonemobile.io/robots.txt</loc>
-        <lastmod>2013-08-27T13:44:20-04:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0016-iBeacons/</loc>
+    
+    <lastmod>2014-09-08T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0015-Azure-Mobile-Services/</loc>
+    
+    <lastmod>2014-08-27T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0014-building-apps-on-the-cheap/</loc>
+    
+    <lastmod>2014-07-28T10:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0013-xamarin-forms/</loc>
+    
+    <lastmod>2014-07-14T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0012-AppLinks-are-Riveting/</loc>
+    
+    <lastmod>2014-05-30T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0011-portable-class-libraries-with-james-montemagno/</loc>
+    
+    <lastmod>2014-05-05T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0010-couchbase-lite/</loc>
+    
+    <lastmod>2014-03-25T09:00:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0009-marketing-yourself-with-john-sonmez/</loc>
+    
+    <lastmod>2014-02-06T11:30:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms/</loc>
+    
+    <lastmod>2014-01-24T09:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger/</loc>
+    
+    <lastmod>2013-12-19T20:14:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0006-jesse-liberty-xamarin-android/</loc>
+    
+    <lastmod>2013-11-26T15:30:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers/</loc>
+    
+    <lastmod>2013-11-04T15:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/</loc>
+    
+    <lastmod>2013-10-14T10:52:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0003-bettsing-on-reactive/</loc>
+    
+    <lastmod>2013-10-01T11:51:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0002-ios7-loving-the-tint/</loc>
+    
+    <lastmod>2013-09-20T15:55:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/e0001-hello-world/</loc>
+    
+    <lastmod>2013-09-02T12:19:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://gonemobile.io/blog/</loc>
+    <lastmod>2014-09-08T11:00:02-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/blog/archives/</loc>
+    <lastmod>2014-09-08T11:00:02-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/</loc>
+    <lastmod>2014-09-08T11:00:02-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gonemobile.io/index2.html</loc>
+    <lastmod>2014-09-08T11:00:02-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://gonemobile.io/disqus.html</loc>
+    <lastmod>2013-08-27T13:44:20Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
 </urlset>
