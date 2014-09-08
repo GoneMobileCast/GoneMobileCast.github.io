@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Episode 16: iBeacons"
+date: 2014-09-08 09:00
+comments: true
+categories: episodes
+---
+
+iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they're used, and where beacons are heading in the future.
+
+<!-- more -->
+
+{% audio http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0016.iBeacons.mp3 %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Doug Thompson](https://twitter.com/dusanwriter)
+
+**Links:** 
+
+- [beekn](http://beekn.net/)
+- [AltBeacon](http://altbeacon.org/)
+- [Build Context-Aware Apps with iBeacons](http://visualstudiomagazine.com/articles/2014/08/01/ibeacons.aspx)
+- [PayPal Beacon](https://www.paypal.com/webapps/mpp/beacon)
+
+**Thanks to our Sponsors!**
+
+[![Raygun.io]({{urls.media}}/images/sponsors/raygun.png)](http://raygun.io)
+
+**[Raygun.io - Exceptional Error Tracking](http://raygun.io)**
+Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.
