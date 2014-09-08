@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-08-27T09:03:36-04:00</updated>
+  <updated>2014-09-08T09:54:30-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 16: iBeacons]]></title>
+    <link href="http://gonemobile.io/blog/e0016-iBeacons/"/>
+    <updated>2014-09-08T09:00:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0016-iBeacons</id>
+    <content type="html"><![CDATA[<p>iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they&rsquo;re used, and where beacons are heading in the future.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0016.iBeacons.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/dusanwriter">Doug Thompson</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://beekn.net/">beekn</a></li>
+<li><a href="http://altbeacon.org/">AltBeacon</a></li>
+<li><a href="http://visualstudiomagazine.com/articles/2014/08/01/ibeacons.aspx">Build Context-Aware Apps with iBeacons</a></li>
+<li><a href="https://www.paypal.com/webapps/mpp/beacon">PayPal Beacon</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="http://raygun.io"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="http://raygun.io">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 15: Azure Mobile Services]]></title>

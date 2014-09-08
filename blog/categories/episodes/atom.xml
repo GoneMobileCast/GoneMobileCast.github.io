@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-08-27T09:03:36-04:00</updated>
+  <updated>2014-09-08T09:54:30-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 16: iBeacons]]></title>
+    <link href="http://gonemobile.io/blog/e0016-iBeacons/"/>
+    <updated>2014-09-08T09:00:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0016-iBeacons</id>
+    <content type="html"><![CDATA[<p>iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they&rsquo;re used, and where beacons are heading in the future.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/dusanwriter">Doug Thompson</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://beekn.net/">beekn</a></li>
+<li><a href="http://altbeacon.org/">AltBeacon</a></li>
+<li><a href="http://visualstudiomagazine.com/articles/2014/08/01/ibeacons.aspx">Build Context-Aware Apps with iBeacons</a></li>
+<li><a href="https://www.paypal.com/webapps/mpp/beacon">PayPal Beacon</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="http://raygun.io"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="http://raygun.io">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 15: Azure Mobile Services]]></title>
@@ -121,35 +156,6 @@
 <li><a href="http://blog.xamarin.com/creating-connected-app-experiences-with-app-links-and-rivets-with-xamarin/">Xamarin Blog: Creating Connected App Expereinces with AppLinks and Rivets</a></li>
 <li><a href="http://redth.codes/what-are-app-links/">Redth Blog: What are AppLinks?</a></li>
 <li><a href="https://github.com/Redth/Rivets">Rivets &ndash; AppLinks for .NET</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 11: Portable Class Libraries (PCL's) with James Montemagno]]></title>
-    <link href="http://gonemobile.io/blog/e0011-portable-class-libraries-with-james-montemagno/"/>
-    <updated>2014-05-05T09:00:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0011-portable-class-libraries-with-james-montemagno</id>
-    <content type="html"><![CDATA[<p>James Montemagno from Xamarin discusses Portable Class Libraries with us.  Learn what PCL&rsquo;s are, how to use them in your Xamarin projects, and what the Advanced PCL or Bait and Switch PCL trick exactly is (hint: use platform specific code with PCL&rsquo;s!).</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/jamesmontemagno">James Montemagno</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://motz.codes">Motz Codes &ndash; James' Blog</a></li>
-<li><a href="http://www.google.com/url?q=http%3A%2F%2Fmotzcod.es%2Fpost%2F83145131540%2Fshared-code-projects-in-vs-windows-phone-windows&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEszUb6d9w8UNfgJi7oZs6zR4C6-w">Shared Code Projects in VS: Windows Phone, Windows Store, and Xamarin!</a></li>
-<li><a href="https://github.com/jamesmontemagno/Xam.PCL.Plugins">Example of PCL&rsquo;s with Platform Specific Code</a></li>
-<li><a href="https://github.com/mrward/monodevelop-nuget-addin">Xamarin Studio NuGet Addin</a></li>
-<li><a href="http://log.paulbetts.org/the-bait-and-switch-pcl-trick/">Paul Betts: The Bait and Switch PCL Trick</a></li>
 </ul>
 
 ]]></content>
