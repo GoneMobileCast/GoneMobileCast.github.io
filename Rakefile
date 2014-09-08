@@ -31,6 +31,7 @@ server_port     = "4000"      # port for preview server eg. localhost:4000
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
   puts '## Set the codepage to 65001 for Windows machines'
   `chcp 65001`
+end
 
 #GONEMOBILE Customization
 desc "copy atom.xml to feed_files"
