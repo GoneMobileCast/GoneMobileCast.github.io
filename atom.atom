@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-09-10T11:34:45-04:00</updated>
+  <updated>2014-10-02T11:42:02-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 17: What's New in iOS8]]></title>
+    <link href="http://gonemobile.io/blog/e0017-Whats-New-in-iOS-8/"/>
+    <updated>2014-10-02T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0017-Whats-New-in-iOS-8</id>
+    <content type="html"><![CDATA[<p>Join us again for our annual show discussing all the new features in the latest version of iOS!  Mike Bluestein joins us once more, and there&rsquo;s lots to talk about!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0017.Whats.New.in.iOS.8.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/mikebluestein">Mike Bluestein</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://developer.xamarin.com/guides/ios/platform_features/introduction_to_ios8/">Introduction to iOS 8</a></li>
+<li><a href="http://blog.xamarin.com/evolve-countdown-ios-8-today-widget/">Today Widget Blog Post</a></li>
+<li>Auto Layout Libraries: <a href="http://praeclarum.org/post/45690317491/easy-layout-a-dsl-for-nslayoutconstraint">Easy Layout &ndash; Frank Krueger</a> and <a href="http://slodge.blogspot.ca/2013/07/playing-with-constraints.html">FluentConstraints &ndash; Stuart Lodge</a></li>
+<li><a href="http://blog.xamarin.com/meet-our-new-favorite-design-tool-paintcode/">Paint Code Blog Post</a></li>
+<li><a href="http://blog.xamarin.com/adding-view-effects-in-ios-8/">View Effects Blog Post</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 16: iBeacons]]></title>
