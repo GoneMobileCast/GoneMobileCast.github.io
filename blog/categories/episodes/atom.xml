@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-10-02T11:42:02-04:00</updated>
+  <updated>2014-10-13T10:09:42-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 18: Securing Mobile Apps with Troy Hunt]]></title>
+    <link href="http://gonemobile.io/blog/e0018-Securing-Mobile-Apps-with-Troy-Hunt/"/>
+    <updated>2014-10-13T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0018-Securing-Mobile-Apps-with-Troy-Hunt</id>
+    <content type="html"><![CDATA[<p>Security is more important today than ever, and mobile apps are no different. Troy Hunt joins us to talk about some common mistakes developers make when developing APIs and apps, and some practical approaches to securing them.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/troyhunt">Troy Hunt</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://pluralsight.com/courses/table-of-contents/hack-your-api-first">Hack Your API First</a></li>
+<li><a href="https://www.owasp.org/index.php/Top_10_2013-Top_10">OWASP Top 10</a></li>
+<li><a href="http://arstechnica.com/security/2014/09/android-browser-flaw-a-privacy-disaster-for-half-of-android-users/">Android browser flaw</a></li>
+<li><a href="http://hak5.org/pineapple_backup">WiFi Pineapple</a></li>
+<li><a href="http://www.telerik.com/fiddler">Fiddler</a></li>
+<li><a href="http://www.charlesproxy.com/">Charles</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your applicationâ€™s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 17: What's New in iOS8]]></title>
@@ -136,34 +173,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://www.appannie.com">App Annie</a></li>
 <li><a href="http://www.fiverr.com">Fiverr</a></li>
 <li><a href="http://urbanairship.com">Urban Airship</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 13: Xamarin.Forms]]></title>
-    <link href="http://gonemobile.io/blog/e0013-xamarin-forms/"/>
-    <updated>2014-07-14T09:00:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0013-xamarin-forms</id>
-    <content type="html"><![CDATA[<p>Learn how to build cross platform, native apps using Xamarin.Forms!  We talk to Jason Smith, one of the developers of Xamarin.Forms about the product, it&rsquo;s strengths and weaknesses over other MVVM libraries, and how to get started!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/jassmith87">Jason Smith</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="https://xamarin.com/forms">Xamarin.Forms</a></li>
-<li><a href="http://developer.xamarin.com/guides/cross-platform/xamarin-forms/">Xamarin.Forms Official Documentation</a></li>
-<li><a href="http://blog.xamarin.com/using-custom-controls-in-xamarin.forms-on-android/">Custom Renderers Blog Post</a></li>
-<li><a href="http://developer.xamarin.com/videos/cross-platform/xamarinforms-custom-renderers/">Custom Renderers Video Tutorial</a></li>
 </ul>
 
 ]]></content>
