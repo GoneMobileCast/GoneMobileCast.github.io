@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-10-27T12:12:11-04:00</updated>
+  <updated>2014-11-19T09:49:44-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 20: Mobile Web Performance with Tammy Everts]]></title>
+    <link href="http://gonemobile.io/blog/e0020-Mobile-Web-Performance-with-Tammy-Everts/"/>
+    <updated>2014-11-19T10:00:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0020-Mobile-Web-Performance-with-Tammy-Everts</id>
+    <content type="html"><![CDATA[<p>Performance matters, especially when it comes to mobile development. Join us as we talk to Tammy Everts about the ins and outs of mobile web performance!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/tameverts">Tammy Everts</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://blog.radware.com/applicationdelivery/applicationaccelerationoptimization/2014/10/report-2014-state-of-the-union-for-mobile-ecommerce-performance/">2014 State of the Union for Mobile Ecommerce Performance</a></li>
+<li><a href="http://blog.radware.com/applicationdelivery/applicationaccelerationoptimization/2014/04/7-mobile-performance-myths/">7 Mobile Web Performance Myths Debunked</a></li>
+<li><a href="http://discuss.emberjs.com/t/why-is-ember-3x-5x-slower-on-android/6577">Why is Ember 3x &ndash; 5x slower on Android?</a></li>
+<li><a href="http://www.webpagetest.org/">WebPageTest</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en">Ghostery</a></li>
+<li><a href="http://opensignal.com/reports/fragmentation.php">Android Fragmentation Visualized</a></li>
+<li><a href="http://www.slideshare.net/nzakas/enough-withthejavascriptalready">Enough with the JavaScript Already</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 19: Exploring Runscope with John Sheehan]]></title>
@@ -151,34 +189,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 
 <p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
 Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 15: Azure Mobile Services]]></title>
-    <link href="http://gonemobile.io/blog/e0015-Azure-Mobile-Services/"/>
-    <updated>2014-08-27T09:00:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0015-Azure-Mobile-Services</id>
-    <content type="html"><![CDATA[<p>Learn all about Azure Mobile Services from some fine folks at Microsoft.  We sit down with Kirill and Yavor to talk about the many features of Azure, specifically relating to mobile!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/kirillg_msft">Kirill Gavrylyuk</a>, <a href="https://twitter.com/theyavor">Yavor Georgiev</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://azure.microsoft.com/en-us/services/mobile-services/">Azure Mobile Services</a></li>
-<li><a href="https://components.xamarin.com/?search=azure">Xamarin Azure Components</a></li>
-<li><a href="http://www.capptain.com/">Capptain</a></li>
-<li><a href="http://azure.microsoft.com/blog/2014/08/04/announcing-release-of-visual-studio-2013-update-3-and-azure-sdk-2-4/">Visual Studio Azure Update</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
