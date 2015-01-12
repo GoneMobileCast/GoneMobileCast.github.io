@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-11-19T09:49:44-05:00</updated>
+  <updated>2015-01-12T11:11:03-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 21: Learning iOS with Reinder de Vries]]></title>
+    <link href="http://gonemobile.io/blog/e0021-Learning-iOS/"/>
+    <updated>2015-01-12T11:10:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0021-Learning-iOS</id>
+    <content type="html"><![CDATA[<p>Learning to write iOS apps can be a daunting task, especially if you&rsquo;ve never written any code before. In this episode we&rsquo;re joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/reinderdevries">Reinder de Vries</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://learnappmaking.com/">LearnAppMaking.com</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your applicationâ€™s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 20: Mobile Web Performance with Tammy Everts]]></title>
@@ -145,41 +177,6 @@ Raygun.io is the fastest and easiest way to track your application&rsquo;s error
 <li>Auto Layout Libraries: <a href="http://praeclarum.org/post/45690317491/easy-layout-a-dsl-for-nslayoutconstraint">Easy Layout &ndash; Frank Krueger</a> and <a href="http://slodge.blogspot.ca/2013/07/playing-with-constraints.html">FluentConstraints &ndash; Stuart Lodge</a></li>
 <li><a href="http://blog.xamarin.com/meet-our-new-favorite-design-tool-paintcode/">Paint Code Blog Post</a></li>
 <li><a href="http://blog.xamarin.com/adding-view-effects-in-ios-8/">View Effects Blog Post</a></li>
-</ul>
-
-
-<p><strong>Thanks to our Sponsors!</strong></p>
-
-<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
-
-<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 16: iBeacons]]></title>
-    <link href="http://gonemobile.io/blog/e0016-iBeacons/"/>
-    <updated>2014-09-08T09:00:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0016-iBeacons</id>
-    <content type="html"><![CDATA[<p>iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they&rsquo;re used, and where beacons are heading in the future.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/dusanwriter">Doug Thompson</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://beekn.net/">beekn</a></li>
-<li><a href="http://altbeacon.org/">AltBeacon</a></li>
-<li><a href="http://visualstudiomagazine.com/articles/2014/08/01/ibeacons.aspx">Build Context-Aware Apps with iBeacons</a></li>
-<li><a href="https://www.paypal.com/webapps/mpp/beacon">PayPal Beacon</a></li>
 </ul>
 
 

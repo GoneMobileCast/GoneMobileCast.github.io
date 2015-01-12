@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2014-11-19T09:49:44-05:00</updated>
+  <updated>2015-01-12T11:11:03-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 21: Learning iOS with Reinder de Vries]]></title>
+    <link href="http://gonemobile.io/blog/e0021-Learning-iOS/"/>
+    <updated>2015-01-12T11:10:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0021-Learning-iOS</id>
+    <content type="html"><![CDATA[<p>Learning to write iOS apps can be a daunting task, especially if you&rsquo;ve never written any code before. In this episode we&rsquo;re joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0021.Learning.iOS.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/reinderdevries">Reinder de Vries</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://learnappmaking.com/">LearnAppMaking.com</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your applicationâ€™s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 20: Mobile Web Performance with Tammy Everts]]></title>
@@ -600,35 +632,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://www.apple.com/iphone-5s/">iPhone 5S</a></li>
 <li><a href="http://docs.xamarin.com/guides/cross-platform/application_fundamentals/backgrounding">Backgrounding</a></li>
 <li><a href="https://github.com/xamarin/monotouch-samples/tree/master/TextKitDemo">Text Kit</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 1: Hello World]]></title>
-    <link href="http://gonemobile.io/blog/e0001-hello-world/"/>
-    <updated>2013-09-02T12:19:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0001-hello-world</id>
-    <content type="html"><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
-
-<p><strong><em>NOTE:</em></strong> We are in the iTunes, Stitcher and Blubrry directories!  If we&rsquo;ve missed your favorite podcast directory or service, please let us know! <a href="http://twitter.com/gonemobilecast">@gonemobilecast</a>.  You can also use the <a href="http://gonemobile.libsyn.com/rss">Direct Podcast RSS Feed Link</a> to subscribe using your favorite podcast player!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> Greg Shackles (<a href="http://twitter.com/gshackles">@gshackles</a>), Nic Wise (<a href="http://twitter.com/fastchicken">@fastchicken</a>), Jon Dick (<a href="http://twitter.com/redth">@redth</a>)</p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="https://itunes.apple.com/us/podcast/xamarin-podcast/id691368176">Xamarin Podcast</a></li>
-<li><a href="http://www.apple.com/ios/ios7/">iOS 7</a></li>
-<li><a href="http://www.google.com/intl/en/chrome/devices/chromecast/">Chromecast</a></li>
-<li><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817">Why Microsoft .NET Failed</a></li>
-<li><a href="https://www.leapmotion.com/">LeapMotion</a></li>
 </ul>
 
 ]]></content>
