@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-01-12T11:11:03-05:00</updated>
+  <updated>2015-01-26T08:50:05-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 22: Designing and Consuming Modern APIs with Darrel Miller]]></title>
+    <link href="http://gonemobile.io/blog/e0022-Designing-and-Consuming-Modern-APIs-with-Darrel-Miller/"/>
+    <updated>2015-01-26T09:30:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0022-Designing-and-Consuming-Modern-APIs-with-Darrel-Miller</id>
+    <content type="html"><![CDATA[<p>When it comes to designing and consuming APIs there is no shortage of approaches out there. In this episode we talk to Darrel Miller about many of these approaches, and ways to design both sides in a modern way to help keep things maintainable and evolvable over time.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0022.Designing.and.Consuming.Modern.APIs.with.Darrel.Miller.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/darrel_miller">Darrel Miller</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=LbSM8U21YkM">Xamarin Evolve 2014: Use Hypermedia for less App Store Hassle</a></li>
+<li>HTTP Specs:
+
+<ul>
+<li><a href="https://tools.ietf.org/html/rfc2616">HTTP/1.1</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7230">Message Syntax and Routing</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7231">Semantics and Content</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7233">Range Requests</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7234">Caching</a></li>
+</ul>
+</li>
+<li><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Fielding&rsquo;s dissertation</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920026617.do">Designing Evolvable Web APIs with ASP.NET</a></li>
+<li><a href="https://developer.github.com/v3/#hypermedia">GitHub&rsquo;s API &ndash; Hypermedia</a></li>
+<li><a href="http://www.odata.org/documentation/odata-version-2-0/batch-processing/">OData &ndash; Batch Processing</a></li>
+<li><a href="http://amundsen.com/media-types/collection/format/">Collection+JSON</a></li>
+<li><a href="http://www.nuget.org/packages/Runscope.WebPack/">Runscope.WebPack</a></li>
+<li><a href="http://www.nuget.org/packages/Tavis.UriTemplates/">Tavis.UriTemplates</a></li>
+<li><a href="https://www.nuget.org/packages/Tavis.PrivateCache/">Tavis.PrivateCache</a></li>
+<li><a href="https://github.com/darrelmiller/GitLinks">GitLinks</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 21: Learning iOS with Reinder de Vries]]></title>
@@ -41,7 +92,7 @@
 <p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
 
 <p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your applicationâ€™s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
 ]]></content>
   </entry>
   
@@ -590,48 +641,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="https://github.com/paulcbetts/splat">Splat</a> &ndash; A library to make things cross-platform that should be</li>
 <li><a href="https://github.com/paulcbetts/refit">Refit</a> &ndash; The automatic type-safe REST library for Xamarin and .NET</li>
 <li><a href="http://log.paulbetts.org/rxui-live-october-1st/">RxUI Live</a> &ndash; Watch Paul Live-Code!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 2: iOS7 Loving the Tint]]></title>
-    <link href="http://gonemobile.io/blog/e0002-ios7-loving-the-tint/"/>
-    <updated>2013-09-20T15:55:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0002-ios7-loving-the-tint</id>
-    <content type="html"><![CDATA[<p>What&rsquo;s new in iOS7? In this episode, we talk to <a href="http://twitter.com/mikebluestein">Mike Bluestein</a> from Xamarin to hear his thoughts on some of the new iOS7 API&rsquo;s such as UIKit Dynamics, Sprite Kit, Text Kit and more!  We also debate the merits of the new iPhone 5C, and discuss the other new hardware including Touch ID.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0002.iOS7.Loving.the.Tint.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a>, <a href="http://twitter.com/jtclancey">James Clancey</a></p>
-
-<p><strong>Guests:</strong> <a href="http://twitter.com/mikebluestein">Mike Bluestein</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://www.gmusicapp.com/">gMusic</a></li>
-<li><a href="http://www.apple.com/ios/what-is/">iOS 7</a></li>
-<li><a href="Before%20and%20After%20Pics%20https://tapfame.com/ios7/">iOS 7</a></li>
-<li><a href="https://github.com/xamarin/monotouch-samples/tree/master/DynamicsCatalog">UIKit Dynamics</a></li>
-<li><a href="http://docs.xamarin.com/releases/ios/api_changes/from_6.4.5_to_7.0.0">API Changes</a></li>
-<li><a href="http://docs.xamarin.com/samples/ios/SpriteKit">Sprite Kit</a></li>
-<li><a href="https://developer.apple.com/library/ios/documentation/ServicesDiscovery/Conceptual/GameControllerPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013276">Game Controllers</a></li>
-<li><a href="http://cocos2dxna.codeplex.com/">Cocos2d For XNA</a></li>
-<li><a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a></li>
-<li><a href="https://developer.apple.com/library/mac/documentation/3DDrawing/Conceptual/SceneKit_PG/Introduction/Introduction.html">Scene Kit</a></li>
-<li><a href="http://gigaom.com/2013/09/10/with-ibeacon-apple-is-going-to-dump-on-nfc-and-embrace-the-internet-of-things/">With iBeacon, Apple is going to dump on NFC and embrace the internet of things</a></li>
-<li><a href="https://www.paypal.com/webapps/mpp/beacon">PayPal Beacon</a></li>
-<li><a href="http://googlecommerce.blogspot.com/2013/09/now-google-wallet-app-for-iphone.html">Now, a Google Wallet app for iPhone</a></li>
-<li><a href="http://www.apple.com/iphone-5s/videos/#video-touch">Touch ID</a></li>
-<li><a href="http://www.apple.com/iphone-5c/">iPhone 5C</a></li>
-<li><a href="http://www.apple.com/iphone-5s/">iPhone 5S</a></li>
-<li><a href="http://docs.xamarin.com/guides/cross-platform/application_fundamentals/backgrounding">Backgrounding</a></li>
-<li><a href="https://github.com/xamarin/monotouch-samples/tree/master/TextKitDemo">Text Kit</a></li>
 </ul>
 
 ]]></content>

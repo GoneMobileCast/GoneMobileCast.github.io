@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-01-12T11:11:03-05:00</updated>
+  <updated>2015-01-26T08:50:05-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 22: Designing and Consuming Modern APIs with Darrel Miller]]></title>
+    <link href="http://gonemobile.io/blog/e0022-Designing-and-Consuming-Modern-APIs-with-Darrel-Miller/"/>
+    <updated>2015-01-26T09:30:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0022-Designing-and-Consuming-Modern-APIs-with-Darrel-Miller</id>
+    <content type="html"><![CDATA[<p>When it comes to designing and consuming APIs there is no shortage of approaches out there. In this episode we talk to Darrel Miller about many of these approaches, and ways to design both sides in a modern way to help keep things maintainable and evolvable over time.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/darrel_miller">Darrel Miller</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=LbSM8U21YkM">Xamarin Evolve 2014: Use Hypermedia for less App Store Hassle</a></li>
+<li>HTTP Specs:
+
+<ul>
+<li><a href="https://tools.ietf.org/html/rfc2616">HTTP/1.1</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7230">Message Syntax and Routing</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7231">Semantics and Content</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7233">Range Requests</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7234">Caching</a></li>
+</ul>
+</li>
+<li><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Fielding&rsquo;s dissertation</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920026617.do">Designing Evolvable Web APIs with ASP.NET</a></li>
+<li><a href="https://developer.github.com/v3/#hypermedia">GitHub&rsquo;s API &ndash; Hypermedia</a></li>
+<li><a href="http://www.odata.org/documentation/odata-version-2-0/batch-processing/">OData &ndash; Batch Processing</a></li>
+<li><a href="http://amundsen.com/media-types/collection/format/">Collection+JSON</a></li>
+<li><a href="http://www.nuget.org/packages/Runscope.WebPack/">Runscope.WebPack</a></li>
+<li><a href="http://www.nuget.org/packages/Tavis.UriTemplates/">Tavis.UriTemplates</a></li>
+<li><a href="https://www.nuget.org/packages/Tavis.PrivateCache/">Tavis.PrivateCache</a></li>
+<li><a href="https://github.com/darrelmiller/GitLinks">GitLinks</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 21: Learning iOS with Reinder de Vries]]></title>
@@ -41,7 +92,7 @@
 <p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
 
 <p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your applicationâ€™s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
 ]]></content>
   </entry>
   
@@ -150,42 +201,6 @@ Raygun.io is the fastest and easiest way to track your application&rsquo;s error
 
 <p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
 Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 17: What's New in iOS8]]></title>
-    <link href="http://gonemobile.io/blog/e0017-Whats-New-in-iOS-8/"/>
-    <updated>2014-10-02T09:30:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0017-Whats-New-in-iOS-8</id>
-    <content type="html"><![CDATA[<p>Join us again for our annual show discussing all the new features in the latest version of iOS!  Mike Bluestein joins us once more, and there&rsquo;s lots to talk about!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/mikebluestein">Mike Bluestein</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://developer.xamarin.com/guides/ios/platform_features/introduction_to_ios8/">Introduction to iOS 8</a></li>
-<li><a href="http://blog.xamarin.com/evolve-countdown-ios-8-today-widget/">Today Widget Blog Post</a></li>
-<li>Auto Layout Libraries: <a href="http://praeclarum.org/post/45690317491/easy-layout-a-dsl-for-nslayoutconstraint">Easy Layout &ndash; Frank Krueger</a> and <a href="http://slodge.blogspot.ca/2013/07/playing-with-constraints.html">FluentConstraints &ndash; Stuart Lodge</a></li>
-<li><a href="http://blog.xamarin.com/meet-our-new-favorite-design-tool-paintcode/">Paint Code Blog Post</a></li>
-<li><a href="http://blog.xamarin.com/adding-view-effects-in-ios-8/">View Effects Blog Post</a></li>
-</ul>
-
-
-<p><strong>Thanks to our Sponsors!</strong></p>
-
-<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
-
-<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
 ]]></content>
   </entry>
   
