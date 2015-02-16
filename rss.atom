@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-01-26T08:50:05-05:00</updated>
+  <updated>2015-02-16T12:18:17-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
+    <link href="http://gonemobile.io/blog/e0023-Continuous-Delivery-for-iOS-Apps/"/>
+    <updated>2015-02-16T09:30:00-05:00</updated>
+    <id>http://gonemobile.io/blog/e0023-Continuous-Delivery-for-iOS-Apps</id>
+    <content type="html"><![CDATA[<p>Continuous integration and delivery is commonplace in the web development world, but has been notoriously difficult to achieve with mobile apps. In this episode we talk to Felix Krause about his fastlane tools that aim to solve multiple pain points in iOS development and deployment by automating everything.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0023.Continuous.Delivery.for.iOS.Apps.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/KrauseFx">Felix Krause</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://fastlane.tools/">Fastlane</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 22: Designing and Consuming Modern APIs with Darrel Miller]]></title>
@@ -610,37 +642,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://raygun.io">Raygun.io</a></li>
 <li><a href="http://www.mindscapehq.com/">Mindscape</a></li>
 <li><a href="https://components.xamarin.com/view/raygun4net/">Raygun Xamarin Component</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 3: Bettsing on Reactive]]></title>
-    <link href="http://gonemobile.io/blog/e0003-bettsing-on-reactive/"/>
-    <updated>2013-10-01T11:51:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0003-bettsing-on-reactive</id>
-    <content type="html"><![CDATA[<p>Paul Betts talks with us about all things Reactive: Reactive Extensions (Rx), Reactive UI (RxUI), and how they fit together in a Microsoft and Xamarin mobile world.  Paul also discusses his Akavache and Splat libraries, and his new Live-coding experiment!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0003.Bettsing.On.Reactive.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a>, <a href="http://twitter.com/jtclancey">James Clancey</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/paulcbetts">Paul Betts</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://rx.codeplex.com/">Reactive Extensions</a></li>
-<li><a href="http://www.reactiveui.net/">Reactive UI</a></li>
-<li><a href="https://github.com/paulcbetts">Paul&rsquo;s GitHub</a></li>
-<li><a href="https://github.com/github/akavache">Akavache</a> &ndash; An asynchronous, persistent key-value store</li>
-<li><a href="https://github.com/paulcbetts/splat">Splat</a> &ndash; A library to make things cross-platform that should be</li>
-<li><a href="https://github.com/paulcbetts/refit">Refit</a> &ndash; The automatic type-safe REST library for Xamarin and .NET</li>
-<li><a href="http://log.paulbetts.org/rxui-live-october-1st/">RxUI Live</a> &ndash; Watch Paul Live-Code!</li>
 </ul>
 
 ]]></content>
