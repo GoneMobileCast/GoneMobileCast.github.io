@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-02-16T12:18:17-05:00</updated>
+  <updated>2015-03-23T08:31:49-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
+    <link href="http://gonemobile.io/blog/e0024-Cross-Platform-Performance-Comparisons-with-Kevin-Ford/"/>
+    <updated>2015-03-22T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0024-Cross-Platform-Performance-Comparisons-with-Kevin-Ford</id>
+    <content type="html"><![CDATA[<p>Ever wanted to know how different app frameworks and approaches compare with each other when it comes to performance? In this episode we spoke to Kevin Ford to dig into exactly that. Join us for a look at how the native SDKs, Xamarin, and Cordova compare for various performance measurements.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0024.Cross.Platform.Performance.Comparisons.with.Kevin.Ford.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/bowman74">Kevin Ford</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://windingroadway.blogspot.com/2014/12/mobile-development-platform-performance.html">Performance Comparisons: Part 1</a></li>
+<li><a href="http://windingroadway.blogspot.com/2015/02/mobile-development-platform-performance.html">Performance Comparisons: Part 2</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
@@ -615,33 +648,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://www.hitcents.com/games/battlepillars">Battlepillars</a></li>
 <li><a href="http://www.hitcents.com/games/stickman-epic">Draw a Stickman Epic</a></li>
 <li><a href="http://www.hitcents.com/games/harlem-shake">Harlem Shake App</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 4: Tracking Errors with Raygun]]></title>
-    <link href="http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/"/>
-    <updated>2013-10-14T10:52:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0004-tracking-errors-with-raygun</id>
-    <content type="html"><![CDATA[<p>We sit down with John-Daniel Trask and Jeremy Boyd of Mindscape to talk about their Error Reporting service Raygun.io and how it fits in with Mobile and Xamarin apps.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0004.Tracking.Errors.with.Raygun.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/traskjd">John-Daniel Trask</a>, <a href="https://twitter.com/turtlespin">Jeremy Boyd</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://raygun.io">Raygun.io</a></li>
-<li><a href="http://www.mindscapehq.com/">Mindscape</a></li>
-<li><a href="https://components.xamarin.com/view/raygun4net/">Raygun Xamarin Component</a></li>
 </ul>
 
 ]]></content>

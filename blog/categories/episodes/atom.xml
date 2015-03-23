@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-02-16T12:18:17-05:00</updated>
+  <updated>2015-03-23T08:31:49-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
+    <link href="http://gonemobile.io/blog/e0024-Cross-Platform-Performance-Comparisons-with-Kevin-Ford/"/>
+    <updated>2015-03-22T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0024-Cross-Platform-Performance-Comparisons-with-Kevin-Ford</id>
+    <content type="html"><![CDATA[<p>Ever wanted to know how different app frameworks and approaches compare with each other when it comes to performance? In this episode we spoke to Kevin Ford to dig into exactly that. Join us for a look at how the native SDKs, Xamarin, and Cordova compare for various performance measurements.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/bowman74">Kevin Ford</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://windingroadway.blogspot.com/2014/12/mobile-development-platform-performance.html">Performance Comparisons: Part 1</a></li>
+<li><a href="http://windingroadway.blogspot.com/2015/02/mobile-development-platform-performance.html">Performance Comparisons: Part 2</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
@@ -154,39 +187,6 @@ Raygun.io is the fastest and easiest way to track your application&rsquo;s error
 <li><a href="https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en">Ghostery</a></li>
 <li><a href="http://opensignal.com/reports/fragmentation.php">Android Fragmentation Visualized</a></li>
 <li><a href="http://www.slideshare.net/nzakas/enough-withthejavascriptalready">Enough with the JavaScript Already</a></li>
-</ul>
-
-
-<p><strong>Thanks to our Sponsors!</strong></p>
-
-<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
-
-<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 19: Exploring Runscope with John Sheehan]]></title>
-    <link href="http://gonemobile.io/blog/e0019-Runscope-with-John-Sheehan/"/>
-    <updated>2014-10-27T12:00:00-04:00</updated>
-    <id>http://gonemobile.io/blog/e0019-Runscope-with-John-Sheehan</id>
-    <content type="html"><![CDATA[<p>APIs have historically been difficult to debug and monitor, and Runscope was founded to help solve this problem. Join us as we talk to John Sheehan about what Runscope offers, and how developers can leverage it to make API development more enjoyable.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/johnsheehan">John Sheehan</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="https://www.runscope.com">Runscope</a></li>
-<li><a href="http://www.mocky.io/">Mocky</a></li>
 </ul>
 
 
