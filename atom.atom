@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-03-23T08:31:49-04:00</updated>
+  <updated>2015-03-31T11:51:42-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 25: Performance Comparisons: Part Two with Harry Cheung]]></title>
+    <link href="http://gonemobile.io/blog/e0025-Performance-Comparisons-with-Harry-Cheung/"/>
+    <updated>2015-03-30T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0025-Performance-Comparisons-with-Harry-Cheung</id>
+    <content type="html"><![CDATA[<p>Performance is a huge and important topic, so one episode just wasn&rsquo;t enough. In this episode we talk to Harry Cheung about the performance tests he&rsquo;s been running to see just how all these different mobile app development approaches perform when it comes to raw computation.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone_Mobile_E0025.Performance.Comparisons.Part.Two.with.Harry.Cheung.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/harrycheung">Harry Cheung</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://medium.com/@harrycheung/cross-platform-mobile-performance-testing-d0454f5cd4e9">Mobile App Performance</a></li>
+<li><a href="https://medium.com/@harrycheung/mobile-app-performance-redux-e512be94f976">Mobile App Performance Redux</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
@@ -618,36 +651,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://www.genymotion.com/">GenyMotion Android Emulator</a></li>
 <li><a href="http://shop.oreilly.com/product/0636920024002.do">Book: Mobile Development with C#</a></li>
 <li><a href="http://www.amazon.com/gp/product/1118026438/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118026438&amp;linkCode=as2&amp;tag=red082-20">Book: Professional Android Programming with Mono for Android and .NET/C#</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 5: MonoGame with Jonathan Peppers]]></title>
-    <link href="http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers/"/>
-    <updated>2013-11-04T15:00:00-05:00</updated>
-    <id>http://gonemobile.io/blog/e0005-monogame-with-jonathan-peppers</id>
-    <content type="html"><![CDATA[<p>We sit down with Jonathan Peppers from Hitcents to talk about writing Games using MonoGame and Xamarin for iOS, Android, Windows and more!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0005.MonoGame.Jonathan.Peppers.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/jonathanpeppers">Jonathan Peppers</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://monogame.net">MonoGame</a></li>
-<li><a href="http://blog.hitcents.com/blog/post/draw-stickman-epic-monogame-adventure">MonoGame Adventure &ndash; Draw a Stickman: EPIC</a> a blog post about Hitcents&#8217; experience with MonoGame in building their successful app!</li>
-<li><a href="http://hitcents.com">Hitcents</a></li>
-<li><a href="http://www.hitcents.com/games/battlepillars">Battlepillars</a></li>
-<li><a href="http://www.hitcents.com/games/stickman-epic">Draw a Stickman Epic</a></li>
-<li><a href="http://www.hitcents.com/games/harlem-shake">Harlem Shake App</a></li>
 </ul>
 
 ]]></content>

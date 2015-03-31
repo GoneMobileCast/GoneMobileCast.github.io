@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-03-23T08:31:49-04:00</updated>
+  <updated>2015-03-31T11:51:42-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 25: Performance Comparisons: Part Two with Harry Cheung]]></title>
+    <link href="http://gonemobile.io/blog/e0025-Performance-Comparisons-with-Harry-Cheung/"/>
+    <updated>2015-03-30T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0025-Performance-Comparisons-with-Harry-Cheung</id>
+    <content type="html"><![CDATA[<p>Performance is a huge and important topic, so one episode just wasn&rsquo;t enough. In this episode we talk to Harry Cheung about the performance tests he&rsquo;s been running to see just how all these different mobile app development approaches perform when it comes to raw computation.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/harrycheung">Harry Cheung</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://medium.com/@harrycheung/cross-platform-mobile-performance-testing-d0454f5cd4e9">Mobile App Performance</a></li>
+<li><a href="https://medium.com/@harrycheung/mobile-app-performance-redux-e512be94f976">Mobile App Performance Redux</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
@@ -149,44 +182,6 @@ Raygun.io is the fastest and easiest way to track your application&rsquo;s error
 
 <ul>
 <li><a href="https://learnappmaking.com/">LearnAppMaking.com</a></li>
-</ul>
-
-
-<p><strong>Thanks to our Sponsors!</strong></p>
-
-<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
-
-<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 20: Mobile Web Performance with Tammy Everts]]></title>
-    <link href="http://gonemobile.io/blog/e0020-Mobile-Web-Performance-with-Tammy-Everts/"/>
-    <updated>2014-11-19T10:00:00-05:00</updated>
-    <id>http://gonemobile.io/blog/e0020-Mobile-Web-Performance-with-Tammy-Everts</id>
-    <content type="html"><![CDATA[<p>Performance matters, especially when it comes to mobile development. Join us as we talk to Tammy Everts about the ins and outs of mobile web performance!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/tameverts">Tammy Everts</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://blog.radware.com/applicationdelivery/applicationaccelerationoptimization/2014/10/report-2014-state-of-the-union-for-mobile-ecommerce-performance/">2014 State of the Union for Mobile Ecommerce Performance</a></li>
-<li><a href="http://blog.radware.com/applicationdelivery/applicationaccelerationoptimization/2014/04/7-mobile-performance-myths/">7 Mobile Web Performance Myths Debunked</a></li>
-<li><a href="http://discuss.emberjs.com/t/why-is-ember-3x-5x-slower-on-android/6577">Why is Ember 3x &ndash; 5x slower on Android?</a></li>
-<li><a href="http://www.webpagetest.org/">WebPageTest</a></li>
-<li><a href="https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en">Ghostery</a></li>
-<li><a href="http://opensignal.com/reports/fragmentation.php">Android Fragmentation Visualized</a></li>
-<li><a href="http://www.slideshare.net/nzakas/enough-withthejavascriptalready">Enough with the JavaScript Already</a></li>
 </ul>
 
 
