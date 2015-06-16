@@ -21,7 +21,7 @@ Prism has been around for awhile, and now you can take advantage of it in your X
 - [First Look at the Prism for Xamarin.Forms Preview](http://brianlagunas.com/first-look-at-the-prism-for-xamarin-forms-preview/)
 - [Prism.Forms on NuGet](https://www.nuget.org/packages/Prism.Forms/)
 - [Prism Grows Up](http://blogs.msdn.com/b/dotnet/archive/2015/03/19/prism-grows-up.aspx)
-- [Whatâ€™s New in Prism for Xamarin.Forms 5.7.0-Pre1 Release](http://brianlagunas.com/whats-new-in-prism-for-xamarin-forms-5-7-0-pre1-release/)
+- [What's New in Prism for Xamarin.Forms 5.7.0-Pre1 Release](http://brianlagunas.com/whats-new-in-prism-for-xamarin-forms-5-7-0-pre1-release/)
 
 
 **Thanks to our Sponsors!**
