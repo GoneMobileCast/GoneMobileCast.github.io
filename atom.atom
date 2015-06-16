@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-06-16T09:45:46-04:00</updated>
+  <updated>2015-06-16T09:52:16-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -35,7 +35,7 @@
 <li><a href="http://brianlagunas.com/first-look-at-the-prism-for-xamarin-forms-preview/">First Look at the Prism for Xamarin.Forms Preview</a></li>
 <li><a href="https://www.nuget.org/packages/Prism.Forms/">Prism.Forms on NuGet</a></li>
 <li><a href="http://blogs.msdn.com/b/dotnet/archive/2015/03/19/prism-grows-up.aspx">Prism Grows Up</a></li>
-<li><a href="http://brianlagunas.com/whats-new-in-prism-for-xamarin-forms-5-7-0-pre1-release/">Whatâ€™s New in Prism for Xamarin.Forms 5.7.0-Pre1 Release</a></li>
+<li><a href="http://brianlagunas.com/whats-new-in-prism-for-xamarin-forms-5-7-0-pre1-release/">What&rsquo;s New in Prism for Xamarin.Forms 5.7.0-Pre1 Release</a></li>
 </ul>
 
 
