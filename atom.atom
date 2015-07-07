@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-06-16T09:54:20-04:00</updated>
+  <updated>2015-07-07T10:01:59-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 27: Automated App Testing with Niels Frydenholm]]></title>
+    <link href="http://gonemobile.io/blog/e0027-Automated-App-Testing-with-Niels-Frydenholm/"/>
+    <updated>2015-07-07T09:30:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0027-Automated-App-Testing-with-Niels-Frydenholm</id>
+    <content type="html"><![CDATA[<p>Interested in getting started writing automated tests for your apps but don&rsquo;t know where to start? In this episode we&rsquo;re joined by Niels Frydenholm to talk about how his team set themselves up for success over at eBay.</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0027.Automated.App.Testing.with.Niels.Frydenholm.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/nfrydenholm">Niels Frydenholm</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="http://blog.xamarin.com/better-apps-and-faster-release-cycles-part-i/">Better Apps &amp; Faster Release Cycles Part I</a></li>
+<li><a href="http://blog.xamarin.com/better-apps-faster-release-cycles-part-ii/">Better Apps &amp; Faster Release Cycles Part II</a></li>
+<li><a href="http://blog.xamarin.com/better-apps-faster-release-cycles-part-iii/">Better Apps &amp; Faster Release Cycles Part III</a></li>
+<li><a href="http://blog.xamarin.com/better-apps-faster-release-cycles-part-iv/">Better Apps &amp; Faster Release Cycles Part IV</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 26: Prism for Xamarin.Forms with Brian Lagunas]]></title>
@@ -627,35 +662,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <li><a href="http://www.robotlegs.org/">Robot Legs (Flash)</a></li>
 <li><a href="https://github.com/benbishop/MonkeyArmsAddressBook">Address Book Sample</a></li>
 <li><a href="http://www.nuget.org/packages/MonkeyArms/">NuGet Package</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 7: The F# is for Frank Krueger]]></title>
-    <link href="http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger/"/>
-    <updated>2013-12-19T20:14:00-05:00</updated>
-    <id>http://gonemobile.io/blog/e0007-the-fsharp-is-for-frank-krueger</id>
-    <content type="html"><![CDATA[<p>We force Frank Krueger to talk to us about F#!</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0007.The.FSharp.Is.For.Frank.Krueger.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/praeclarum">Frank Krueger</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://praeclarum.org/">Frank&rsquo;s Site/Blog</a></li>
-<li><a href="https://soundcloud.com/xamarin-podcast">Xamarin Podcast</a></li>
-<li><a href="http://icircuitapp.com/">iCircuit</a></li>
-<li><a href="http://7sharpnine.com/">Dave Thomas</a></li>
-<li><a href="http://calca.io/">Calca</a></li>
 </ul>
 
 ]]></content>
