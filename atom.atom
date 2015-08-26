@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-07-07T10:01:59-04:00</updated>
+  <updated>2015-08-26T09:42:05-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 28: Behind the Scenes of Xamarin.Forms with Jason Smith]]></title>
+    <link href="http://gonemobile.io/blog/e0028-Behind-the-Scenes-of-Xamarin-Forms/"/>
+    <updated>2015-08-26T09:40:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0028-Behind-the-Scenes-of-Xamarin-Forms</id>
+    <content type="html"><![CDATA[<p>In this episode we&rsquo;re talking about Xamarin.Forms again, but this time around it&rsquo;s a bit different. We&rsquo;re joined once again by Jason Smith, lead developer of Xamarin.Forms, to take a look behind the scenes of Xamarin.Forms. We get into where it came from, inspirations, design decisions, triumps, mistakes, and more. Join us for this peek behind the curtain of creating the Xamarin.Forms framework!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0028.Behind.the.Scenes.of.Xamarin.Forms.with.Jason.Smith.mp3' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/jassmith87">Jason Smith</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://xamarin.com/forms">Xamarin.Forms</a></li>
+<li><a href="http://gonemobile.io/blog/e0013-xamarin-forms/">Episode 13: Xamarin.Forms</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="http://gonemobile.io/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 27: Automated App Testing with Niels Frydenholm]]></title>
@@ -634,34 +667,6 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <ul>
 <li><a href="http://simpleprogrammer.com/">John&rsquo;s Blog</a></li>
 <li><a href="http://simpleprogrammer.com/howtomarketyourself">John&rsquo;s book on how to market yourself as a software developer</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 8: Ben Bishop's Monkey Arms]]></title>
-    <link href="http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms/"/>
-    <updated>2014-01-24T09:00:00-05:00</updated>
-    <id>http://gonemobile.io/blog/e0008-ben-bishops-monkey-arms</id>
-    <content type="html"><![CDATA[<p>Ben&rsquo;s been working on an interesting new framework called Monkey Arms which is inspired by Robot Legs for Flash.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0008.Ben.Bishops.Monkey.Arms.mp3' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guests:</strong> <a href="https://twitter.com/benjamminstl">Ben Bishop</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="https://github.com/benbishop/MonkeyArms">Monkey Arms</a></li>
-<li><a href="http://www.robotlegs.org/">Robot Legs (Flash)</a></li>
-<li><a href="https://github.com/benbishop/MonkeyArmsAddressBook">Address Book Sample</a></li>
-<li><a href="http://www.nuget.org/packages/MonkeyArms/">NuGet Package</a></li>
 </ul>
 
 ]]></content>

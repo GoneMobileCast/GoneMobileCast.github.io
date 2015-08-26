@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://gonemobile.io/blog/e0028-Behind-the-Scenes-of-Xamarin-Forms/</loc>
+    
+    <lastmod>2015-08-26T09:40:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://gonemobile.io/blog/e0027-Automated-App-Testing-with-Niels-Frydenholm/</loc>
     
     <lastmod>2015-07-07T09:30:00-04:00</lastmod>
@@ -221,28 +229,28 @@
   
   <url>
     <loc>http://gonemobile.io/blog/</loc>
-    <lastmod>2015-07-07T10:01:59-04:00</lastmod>
+    <lastmod>2015-08-26T09:42:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://gonemobile.io/blog/archives/</loc>
-    <lastmod>2015-07-07T10:01:59-04:00</lastmod>
+    <lastmod>2015-08-26T09:42:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://gonemobile.io/</loc>
-    <lastmod>2015-07-07T10:01:59-04:00</lastmod>
+    <lastmod>2015-08-26T09:42:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://gonemobile.io/index2.html</loc>
-    <lastmod>2015-07-07T10:01:59-04:00</lastmod>
+    <lastmod>2015-08-26T09:42:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

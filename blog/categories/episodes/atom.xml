@@ -4,7 +4,7 @@
   <title><![CDATA[Category: episodes | Gone Mobile]]></title>
   <link href="http://gonemobile.io/blog/categories/episodes/atom.xml" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-07-07T10:01:59-04:00</updated>
+  <updated>2015-08-26T09:42:05-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 28: Behind the Scenes of Xamarin.Forms with Jason Smith]]></title>
+    <link href="http://gonemobile.io/blog/e0028-Behind-the-Scenes-of-Xamarin-Forms/"/>
+    <updated>2015-08-26T09:40:00-04:00</updated>
+    <id>http://gonemobile.io/blog/e0028-Behind-the-Scenes-of-Xamarin-Forms</id>
+    <content type="html"><![CDATA[<p>In this episode we&rsquo;re talking about Xamarin.Forms again, but this time around it&rsquo;s a bit different. We&rsquo;re joined once again by Jason Smith, lead developer of Xamarin.Forms, to take a look behind the scenes of Xamarin.Forms. We get into where it came from, inspirations, design decisions, triumps, mistakes, and more. Join us for this peek behind the curtain of creating the Xamarin.Forms framework!</p>
+
+<!-- more -->
+
+
+<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/jassmith87">Jason Smith</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li><a href="https://xamarin.com/forms">Xamarin.Forms</a></li>
+<li><a href="http://gonemobile.io/blog/e0013-xamarin-forms/">Episode 13: Xamarin.Forms</a></li>
+</ul>
+
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 27: Automated App Testing with Niels Frydenholm]]></title>
@@ -137,38 +170,6 @@ Raygun.io is the fastest and easiest way to track your application&rsquo;s error
 <ul>
 <li><a href="http://windingroadway.blogspot.com/2014/12/mobile-development-platform-performance.html">Performance Comparisons: Part 1</a></li>
 <li><a href="http://windingroadway.blogspot.com/2015/02/mobile-development-platform-performance.html">Performance Comparisons: Part 2</a></li>
-</ul>
-
-
-<p><strong>Thanks to our Sponsors!</strong></p>
-
-<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
-
-<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io &ndash; Exceptional Error Tracking</a></strong>
-Raygun.io is the fastest and easiest way to track your application&rsquo;s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
-    <link href="http://gonemobile.io/blog/e0023-Continuous-Delivery-for-iOS-Apps/"/>
-    <updated>2015-02-16T09:30:00-05:00</updated>
-    <id>http://gonemobile.io/blog/e0023-Continuous-Delivery-for-iOS-Apps</id>
-    <content type="html"><![CDATA[<p>Continuous integration and delivery is commonplace in the web development world, but has been notoriously difficult to achieve with mobile apps. In this episode we talk to Felix Krause about his fastlane tools that aim to solve multiple pain points in iOS development and deployment by automating everything.</p>
-
-<!-- more -->
-
-
-<p><audio controls><source src='<a' type='audio/mpeg' preload='none' /></audio></p>
-
-<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
-
-<p><strong>Guest:</strong> <a href="https://twitter.com/KrauseFx">Felix Krause</a></p>
-
-<p><strong>Links:</strong></p>
-
-<ul>
-<li><a href="http://fastlane.tools/">Fastlane</a></li>
 </ul>
 
 
