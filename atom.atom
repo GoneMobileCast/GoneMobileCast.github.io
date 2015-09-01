@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2015-08-26T09:42:05-04:00</updated>
+  <updated>2015-09-01T14:17:06-04:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -34,6 +34,7 @@
 <ul>
 <li><a href="https://xamarin.com/forms">Xamarin.Forms</a></li>
 <li><a href="http://gonemobile.io/blog/e0013-xamarin-forms/">Episode 13: Xamarin.Forms</a></li>
+<li><a href="https://developer.xamarin.com/guides/cross-platform/xamarin-forms/user-interface/listview/performance/">Xamarin.Forms ListView Performance</a></li>
 </ul>
 
 
