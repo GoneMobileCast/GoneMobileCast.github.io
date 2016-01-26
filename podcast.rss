@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>2016-01-26T10:29:17-05:00</pubDate>
-    <lastBuildDate>2016-01-26T10:29:17-05:00</lastBuildDate>
+    <pubDate>2016-01-26T12:46:13-05:00</pubDate>
+    <lastBuildDate>2016-01-26T12:46:13-05:00</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -48,7 +48,7 @@
 <!-- more -->
 
 
-<p><audio controls><source src='mediaurl' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0029.Push.Notifications.mp3' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Hosts/Guests:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
 
@@ -1156,7 +1156,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <!-- more -->
 
 
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='mediaurl' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Hosts:</strong> Greg Shackles (<a href="http://twitter.com/gshackles">@gshackles</a>), Nic Wise (<a href="http://twitter.com/fastchicken">@fastchicken</a>), Jon Dick (<a href="http://twitter.com/redth">@redth</a>)</p>
 
@@ -1176,11 +1176,11 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <pubDate>Mon, 02 Sep 2013 12:19:00 -0400</pubDate>
       <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[]]></itunes:duration>      
-      <enclosure url="" type="audio/mp3" length="" />
+      <itunes:duration><![CDATA[3197.0]]></itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3" type="audio/mp3" length="38363345" />
     </item>
     
 
