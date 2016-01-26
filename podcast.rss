@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>2016-01-26T12:46:13-05:00</pubDate>
-    <lastBuildDate>2016-01-26T12:46:13-05:00</lastBuildDate>
+    <pubDate>2016-01-26T12:47:49-05:00</pubDate>
+    <lastBuildDate>2016-01-26T12:47:49-05:00</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -1156,7 +1156,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
 <!-- more -->
 
 
-<p><audio controls><source src='mediaurl' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Hosts:</strong> Greg Shackles (<a href="http://twitter.com/gshackles">@gshackles</a>), Nic Wise (<a href="http://twitter.com/fastchicken">@fastchicken</a>), Jon Dick (<a href="http://twitter.com/redth">@redth</a>)</p>
 
