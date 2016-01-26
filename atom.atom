@@ -4,7 +4,7 @@
   <title><![CDATA[Gone Mobile]]></title>
   <link href="http://gonemobile.io/rss.atom" rel="self"/>
   <link href="http://gonemobile.io/"/>
-  <updated>2016-01-26T10:01:01-05:00</updated>
+  <updated>2016-01-26T10:29:17-05:00</updated>
   <id>http://gonemobile.io/</id>
   <author>
     <name><![CDATA[Gone Mobile Podcast]]></name>
@@ -23,7 +23,7 @@
 <!-- more -->
 
 
-<p><audio controls><source src='http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0029.Push.Notifications.mp3' type='audio/mpeg' preload='none' /></audio></p>
+<p><audio controls><source src='mediaurl' type='audio/mpeg' preload='none' /></audio></p>
 
 <p><strong>Hosts/Guests:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
 
