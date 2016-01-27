@@ -1,0 +1,64 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Gone Mobile Podcast</title>
+    <link>http://gonemobile.io</link>
+    <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+    <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
+    <language>en-us</language>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
+    <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
+    <image>
+      <url>http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png</url>
+      <title>Gone Mobile</title>
+      <link><![CDATA[http://gonemobile.io]]></link>
+    </image>
+
+    <itunes:new-feed-url>http://feed.gonemobile.io</itunes:new-feed-url>
+    <itunes:author>Greg Shackles, Jonathan Dick</itunes:author>
+    <itunes:subtitle><![CDATA[Mobile .NET Development, News, and more!]]></itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Greg Shackles, Jonathan Dick</itunes:author>
+    <itunes:keywords>android,c,development,ios,mobile,net,xamarin,xamarinandroid,xamarinios</itunes:keywords>
+    
+    <itunes:summary><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies.  The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></itunes:summary>
+
+    <itunes:owner>
+      <itunes:name>Jonathan Dick</itunes:name>
+      <itunes:email>jondick@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+    
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+
+    {% for post in site.posts %}
+    <item>
+      <title><![CDATA[{{ post.title | cdata_escape }}]]></title>
+      <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rss }}</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
+      <itunes:subtitle><![CDATA[{{ post.summary }}]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[{{ post.keywords }}]]></itunes:keywords>
+      <itunes:duration><![CDATA[{{ post.duration }}]]></itunes:duration>      
+      <enclosure url="{{ post.mediaurl }}" type="audio/mp3" length="{{ post.length }}" />
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>

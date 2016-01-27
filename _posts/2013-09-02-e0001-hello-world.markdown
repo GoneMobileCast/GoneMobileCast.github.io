@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Episode 1: Hello World"
+date: 2013-09-02 12:19
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3
+duration: 53:17
+length: 38363345
+summary: Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!
+---
+
+{{ page.summary }} 
+
+***NOTE:*** We are in the iTunes, Stitcher and Blubrry directories!  If we've missed your favorite podcast directory or service, please let us know! [@gonemobilecast](http://twitter.com/gonemobilecast).  You can also use the [Direct Podcast RSS Feed Link](http://gonemobile.libsyn.com/rss) to subscribe using your favorite podcast player!
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** Greg Shackles ([@gshackles](http://twitter.com/gshackles)), Nic Wise ([@fastchicken](http://twitter.com/fastchicken)), Jon Dick ([@redth](http://twitter.com/redth))
+
+**Links:**
+
+ - [Xamarin Podcast](https://itunes.apple.com/us/podcast/xamarin-podcast/id691368176)
+ - [iOS 7](http://www.apple.com/ios/ios7/)
+ - [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/)
+ - [Why Microsoft .NET Failed](http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817)
+ - [LeapMotion](https://www.leapmotion.com/)
+ 

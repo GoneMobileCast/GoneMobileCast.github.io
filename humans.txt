@@ -1,0 +1,9 @@
+---
+layout: nil
+---
+
+/* TEAM */
+Author: {{ site.author }}
+Site: {{ root_url }}
+{% if site.social.twitter %}Twitter: https://www.twitter.com/{{ site.social.twitter }}{% endif %}
+{% if site.social.github %}Github: https://www.github.com/{{ site.social.github }}{% endif %}

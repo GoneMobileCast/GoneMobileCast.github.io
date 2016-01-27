@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Episode 29: Push Notifications"
+date: 2016-01-25 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0029.Push.Notifications.mp3
+duration: 53:04
+length: 36587511
+summary: This episode covers pretty much everything there is to know about Push Notifications.  From Apple’s APNS to Google’s C2DM and GCM, learn about what they are and how they work.  We also discuss the benefits and disadvantages of roll your own with PushSharp and using services like Azure, Amazon EC2, Urbanairship and Parse.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts/Guests:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Links:** 
+
+- [PushSharp](https://github.com/redth/pushsharp)
+- [Redth.codes Blog](http://redth.codes/)
+- [Apple APNS Documentation](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html)
+- [Google GCM Documentation](https://developers.google.com/cloud-messaging/)
+
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

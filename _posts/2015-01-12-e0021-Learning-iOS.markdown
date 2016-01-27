@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Episode 21: Learning iOS with Reinder de Vries"
+date: 2015-01-12 11:10
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0021.Learning.iOS.mp3
+duration: 37:19
+length: 35877716
+summary: Learning to write iOS apps can be a daunting task, especially if you've never written any code before. In this episode we're joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Reinder de Vries](https://twitter.com/reinderdevries)
+
+**Links:** 
+
+- [LearnAppMaking.com](https://learnappmaking.com/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

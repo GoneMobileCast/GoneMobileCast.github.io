@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <p><i>Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.</i></p>
+
+  <br />
+
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p>
+          {{ post.summary }}
+          <br />
+          <a href="{{ post.url | prepend: site.baseurl }}">Listen Now &rarr;</a>
+        </p>
+
+
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

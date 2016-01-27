@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Episode 16: iBeacons"
+date: 2014-09-08 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0016.iBeacons.mp3
+duration: 50:45
+length: 48732834
+summary: iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they're used, and where beacons are heading in the future.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Doug Thompson](https://twitter.com/dusanwriter)
+
+**Links:** 
+
+- [beekn](http://beekn.net/)
+- [AltBeacon](http://altbeacon.org/)
+- [Build Context-Aware Apps with iBeacons](http://visualstudiomagazine.com/articles/2014/08/01/ibeacons.aspx)
+- [PayPal Beacon](https://www.paypal.com/webapps/mpp/beacon)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}
