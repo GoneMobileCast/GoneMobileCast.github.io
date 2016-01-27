@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://gonemobile.io/sitemap.xml 
