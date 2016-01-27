@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>2016-01-27T08:32:26-05:00</pubDate>
-    <lastBuildDate>2016-01-27T08:32:26-05:00</lastBuildDate>
+    <pubDate>2016-01-27T10:13:39-05:00</pubDate>
+    <lastBuildDate>2016-01-27T10:13:39-05:00</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -42,7 +42,7 @@
 
     
     <item>
-      <title><![CDATA[Episode 29: Push Notifications]]></title>
+      <title><![CDATA[Gone Mobile 29: Push Notifications]]></title>
       <description><![CDATA[<p>This episode covers pretty much everything there is to know about Push Notifications.  From Apple’s APNS to Google’s C2DM and GCM, learn about what they are and how they work.  We also discuss the benefits and disadvantages of roll your own with PushSharp and using services like Azure, Amazon EC2, Urbanairship and Parse.</p>
 
 <!-- more -->
@@ -81,7 +81,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 28: Behind the Scenes of Xamarin.Forms with Jason Smith]]></title>
+      <title><![CDATA[Gone Mobile 28: Behind the Scenes of Xamarin.Forms with Jason Smith]]></title>
       <description><![CDATA[<p>In this episode we’re talking about Xamarin.Forms again, but this time around it’s a bit different. We’re joined once again by Jason Smith, lead developer of Xamarin.Forms, to take a look behind the scenes of Xamarin.Forms. We get into where it came from, inspirations, design decisions, triumps, mistakes, and more. Join us for this peek behind the curtain of creating the Xamarin.Forms framework!</p>
 
 <!-- more -->
@@ -121,7 +121,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 27: Automated App Testing with Niels Frydenholm]]></title>
+      <title><![CDATA[Gone Mobile 27: Automated App Testing with Niels Frydenholm]]></title>
       <description><![CDATA[<p>Interested in getting started writing automated tests for your apps but don’t know where to start? In this episode we’re joined by Niels Frydenholm to talk about how his team set themselves up for success over at eBay.</p>
 
 <!-- more -->
@@ -162,7 +162,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 26: Prism for Xamarin.Forms with Brian Lagunas]]></title>
+      <title><![CDATA[Gone Mobile 26: Prism for Xamarin.Forms with Brian Lagunas]]></title>
       <description><![CDATA[<p>Prism has been around for awhile, and now you can take advantage of it in your Xamarin.Forms apps! In this episode we dig into what Prism is, why you’d want to use it in your mobile apps, and how it fits into Xamarin.Forms apps.</p>
 
 <!-- more -->
@@ -203,7 +203,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 25: Performance Comparisons: Part Two with Harry Cheung]]></title>
+      <title><![CDATA[Gone Mobile 25: Performance Comparisons: Part Two with Harry Cheung]]></title>
       <description><![CDATA[<p>Performance is a huge and important topic, so one episode just wasn’t enough. In this episode we talk to Harry Cheung about the performance tests he’s been running to see just how all these different mobile app development approaches perform when it comes to raw computation.</p>
 
 <!-- more -->
@@ -242,7 +242,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
+      <title><![CDATA[Gone Mobile 24: Cross-Platform Performance Comparisons with Kevin Ford]]></title>
       <description><![CDATA[<p>Ever wanted to know how different app frameworks and approaches compare with each other when it comes to performance? In this episode we spoke to Kevin Ford to dig into exactly that. Join us for a look at how the native SDKs, Xamarin, and Cordova compare for various performance measurements.</p>
 
 <!-- more -->
@@ -281,7 +281,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
+      <title><![CDATA[Gone Mobile 23: Continuous Delivery for iOS Apps with Felix Krause]]></title>
       <description><![CDATA[<p>Continuous integration and delivery is commonplace in the web development world, but has been notoriously difficult to achieve with mobile apps. In this episode we talk to Felix Krause about his fastlane tools that aim to solve multiple pain points in iOS development and deployment by automating everything.</p>
 
 <!-- more -->
@@ -319,7 +319,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 22: Designing and Consuming Modern APIs with Darrel Miller]]></title>
+      <title><![CDATA[Gone Mobile 22: Designing and Consuming Modern APIs with Darrel Miller]]></title>
       <description><![CDATA[<p>When it comes to designing and consuming APIs there is no shortage of approaches out there. In this episode we talk to Darrel Miller about many of these approaches, and ways to design both sides in a modern way to help keep things maintainable and evolvable over time.</p>
 
 <!-- more -->
@@ -375,7 +375,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 21: Learning iOS with Reinder de Vries]]></title>
+      <title><![CDATA[Gone Mobile 21: Learning iOS with Reinder de Vries]]></title>
       <description><![CDATA[<p>Learning to write iOS apps can be a daunting task, especially if you’ve never written any code before. In this episode we’re joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.</p>
 
 <!-- more -->
@@ -413,7 +413,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 20: Mobile Web Performance with Tammy Everts]]></title>
+      <title><![CDATA[Gone Mobile 20: Mobile Web Performance with Tammy Everts]]></title>
       <description><![CDATA[<p>Performance matters, especially when it comes to mobile development. Join us as we talk to Tammy Everts about the ins and outs of mobile web performance!</p>
 
 <!-- more -->
@@ -457,7 +457,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 19: Exploring Runscope with John Sheehan]]></title>
+      <title><![CDATA[Gone Mobile 19: Exploring Runscope with John Sheehan]]></title>
       <description><![CDATA[<p>APIs have historically been difficult to debug and monitor, and Runscope was founded to help solve this problem. Join us as we talk to John Sheehan about what Runscope offers, and how developers can leverage it to make API development more enjoyable.</p>
 
 <!-- more -->
@@ -496,7 +496,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 18: Securing Mobile Apps with Troy Hunt]]></title>
+      <title><![CDATA[Gone Mobile 18: Securing Mobile Apps with Troy Hunt]]></title>
       <description><![CDATA[<p>Security is more important today than ever, and mobile apps are no different. Troy Hunt joins us to talk about some common mistakes developers make when developing APIs and apps, and some practical approaches to securing them.</p>
 
 <!-- more -->
@@ -539,7 +539,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 17: What's New in iOS8]]></title>
+      <title><![CDATA[Gone Mobile 17: What's New in iOS8]]></title>
       <description><![CDATA[<p>Join us again for our annual show discussing all the new features in the latest version of iOS!  Mike Bluestein joins us once more, and there’s lots to talk about!</p>
 
 <!-- more -->
@@ -581,7 +581,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 16: iBeacons]]></title>
+      <title><![CDATA[Gone Mobile 16: iBeacons]]></title>
       <description><![CDATA[<p>iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they’re used, and where beacons are heading in the future.</p>
 
 <!-- more -->
@@ -622,7 +622,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 15: Azure Mobile Services]]></title>
+      <title><![CDATA[Gone Mobile 15: Azure Mobile Services]]></title>
       <description><![CDATA[<p>Learn all about Azure Mobile Services from some fine folks at Microsoft.  We sit down with Kirill and Yavor to talk about the many features of Azure, specifically relating to mobile!</p>
 
 <!-- more -->
@@ -655,7 +655,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 14: Building Apps on the Cheap]]></title>
+      <title><![CDATA[Gone Mobile 14: Building Apps on the Cheap]]></title>
       <description><![CDATA[<p>Not every app has to have a massive budget.  Kevin Knoop joins us this episode to talk about his experiences with building apps on the cheap.  You’ll be surprised how little his House Alarm app costs him to run!</p>
 
 <!-- more -->
@@ -689,7 +689,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 13: Xamarin.Forms]]></title>
+      <title><![CDATA[Gone Mobile 13: Xamarin.Forms]]></title>
       <description><![CDATA[<p>Learn how to build cross platform, native apps using Xamarin.Forms!  We talk to Jason Smith, one of the developers of Xamarin.Forms about the product, it’s strengths and weaknesses over other MVVM libraries, and how to get started!</p>
 
 <!-- more -->
@@ -722,7 +722,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 12: AppLinks are Riveting]]></title>
+      <title><![CDATA[Gone Mobile 12: AppLinks are Riveting]]></title>
       <description><![CDATA[<p>Find out what exactly AppLinks are, how they work, and how you can use Rivets to add support for them to your own .NET apps.</p>
 
 <!-- more -->
@@ -756,7 +756,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 11: Portable Class Libraries (PCL's) with James Montemagno]]></title>
+      <title><![CDATA[Gone Mobile 11: Portable Class Libraries (PCL's) with James Montemagno]]></title>
       <description><![CDATA[<p>James Montemagno from Xamarin discusses Portable Class Libraries with us.  Learn what PCL’s are, how to use them in your Xamarin projects, and what the Advanced PCL or Bait and Switch PCL trick exactly is (hint: use platform specific code with PCL’s!).</p>
 
 <!-- more -->
@@ -790,7 +790,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 10: Couchbase Lite]]></title>
+      <title><![CDATA[Gone Mobile 10: Couchbase Lite]]></title>
       <description><![CDATA[<p>Wayne Carter from Couchbase and Zack Gramana from Xamarin talk to us about Couchbase Lite for Mobile.</p>
 
 <!-- more -->
@@ -824,7 +824,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 9: Marketing Yourself with John Sonmez]]></title>
+      <title><![CDATA[Gone Mobile 9: Marketing Yourself with John Sonmez]]></title>
       <description><![CDATA[<p>John Sonmez talks to us about the importance of building a strong personal brand in software development. John discusses not only why it’s important, but how developers can get out there to start marketing themselves and building their brand.</p>
 
 <!-- more -->
@@ -855,7 +855,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 8: Ben Bishop's Monkey Arms]]></title>
+      <title><![CDATA[Gone Mobile 8: Ben Bishop's Monkey Arms]]></title>
       <description><![CDATA[<p>Ben’s been working on an interesting new framework called Monkey Arms which is inspired by Robot Legs for Flash.</p>
 
 <!-- more -->
@@ -888,7 +888,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 7: The F# is for Frank Krueger]]></title>
+      <title><![CDATA[Gone Mobile 7: The F# is for Frank Krueger]]></title>
       <description><![CDATA[<p>We force Frank Krueger to talk to us about F#!</p>
 
 <!-- more -->
@@ -922,7 +922,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 6: Jesse Liberty and Xamarin.Android]]></title>
+      <title><![CDATA[Gone Mobile 6: Jesse Liberty and Xamarin.Android]]></title>
       <description><![CDATA[<p>Jesse Liberty talks to us about his recent ventures into Mobile development with Xamarin.Android!</p>
 
 <!-- more -->
@@ -958,7 +958,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 5: MonoGame with Jonathan Peppers]]></title>
+      <title><![CDATA[Gone Mobile 5: MonoGame with Jonathan Peppers]]></title>
       <description><![CDATA[<p>We sit down with Jonathan Peppers from Hitcents to talk about writing Games using MonoGame and Xamarin for iOS, Android, Windows and more!</p>
 
 <!-- more -->
@@ -994,7 +994,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 4: Tracking Errors with Raygun]]></title>
+      <title><![CDATA[Gone Mobile 4: Tracking Errors with Raygun]]></title>
       <description><![CDATA[<p>We sit down with John-Daniel Trask and Jeremy Boyd of Mindscape to talk about their Error Reporting service Raygun.io and how it fits in with Mobile and Xamarin apps.</p>
 
 <!-- more -->
@@ -1027,7 +1027,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 3: Bettsing on Reactive]]></title>
+      <title><![CDATA[Gone Mobile 3: Bettsing on Reactive]]></title>
       <description><![CDATA[<p>Paul Betts talks with us about all things Reactive: Reactive Extensions (Rx), Reactive UI (RxUI), and how they fit together in a Microsoft and Xamarin mobile world.  Paul also discusses his Akavache and Splat libraries, and his new Live-coding experiment!</p>
 
 <!-- more -->
@@ -1063,7 +1063,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 2: iOS7 Loving the Tint]]></title>
+      <title><![CDATA[Gone Mobile 2: iOS7 Loving the Tint]]></title>
       <description><![CDATA[<p>What’s new in iOS7? In this episode, we talk to <a href="http://twitter.com/mikebluestein">Mike Bluestein</a> from Xamarin to hear his thoughts on some of the new iOS7 API’s such as UIKit Dynamics, Sprite Kit, Text Kit and more!  We also debate the merits of the new iPhone 5C, and discuss the other new hardware including Touch ID.</p>
 
 <!-- more -->
@@ -1110,7 +1110,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
     </item>
     
     <item>
-      <title><![CDATA[Episode 1: Hello World]]></title>
+      <title><![CDATA[Gone Mobile 1: Hello World]]></title>
       <description><![CDATA[<p>Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!</p>
 
 <p><strong><em>NOTE:</em></strong> We are in the iTunes, Stitcher and Blubrry directories!  If we’ve missed your favorite podcast directory or service, please let us know! <a href="http://twitter.com/gonemobilecast">@gonemobilecast</a>.  You can also use the <a href="http://gonemobile.libsyn.com/rss">Direct Podcast RSS Feed Link</a> to subscribe using your favorite podcast player!</p>
