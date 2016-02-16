@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>2016-01-27T10:13:39-05:00</pubDate>
-    <lastBuildDate>2016-01-27T10:13:39-05:00</lastBuildDate>
+    <pubDate>2016-02-16T07:52:51-05:00</pubDate>
+    <lastBuildDate>2016-02-16T07:52:51-05:00</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,47 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 30: Hexagonal App Architecture with Chris Williams]]></title>
+      <description><![CDATA[<p>In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0030.Hexagonal.App.Architecture.with.Chris.Williams.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guest:</strong> <a href="https://twitter.com/crswlls">Chris Williams</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="http://www.mixradiomusic.com/">MixRadio</a></li>
+  <li><a href="https://crswlls.wordpress.com/2016/01/11/think-hexagonal-architecture-for-cross-platform-mobile-applications/">Think Hexagonal Architecture for Cross-Platform Mobile Applications</a></li>
+  <li><a href="http://alistair.cockburn.us/Hexagonal+architecture">Hexagonal Architecture</a></li>
+  <li><a href="https://evolve.xamarin.com/?speaker=ChrisWilliams#speaker">Chris Williams at Evolve 2016</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun.png" alt="Raygun.io" /></a></p>
+
+<p><strong><a href="https://raygun.io/?utm_source=gonemobile&amp;utm_medium=episodes&amp;utm_campaign=gone-mobile">Raygun.io - Exceptional Error Tracking</a></strong>
+Raygun.io is the fastest and easiest way to track your application’s errors and get the level of detail you need to fix crashes quickly. Notifications are delivered right to your inbox and presented on a beautiful dashboard.</p>
+
+]]></description>
+      <link>http://gonemobile.io/blog/e0030-hexagonal.app.architecture.with.chris.williams/</link>
+      <guid>http://gonemobile.io/blog/e0030-hexagonal.app.architecture.with.chris.williams/</guid>
+      <pubDate>2016-02-16 09:00:00 -0500</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration><![CDATA[2280.0]]></itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0030.Hexagonal.App.Architecture.with.Chris.Williams.mp3" type="audio/mp3" length="43652218" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 29: Push Notifications]]></title>
