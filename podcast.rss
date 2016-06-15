@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Tue, 14 Jun 2016 15:14:32 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Jun 2016 15:14:32 -0400</lastBuildDate>
+    <pubDate>Wed, 15 Jun 2016 18:01:46 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 18:01:46 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -56,7 +56,7 @@
 <p><strong>Links:</strong></p>
 
 <ul>
-  <li><a href="https://raygun.com/products/real-user-monitoring">Raygun Pulse</a></li>
+  <li><a href="https://raygun.com/products/real-user-monitoring">Raygun Pulse - Real User Monitoring</a></li>
   <li><a href="http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/">Gone Mobile 4: Tracking Errors with Raygun</a></li>
 </ul>
 
