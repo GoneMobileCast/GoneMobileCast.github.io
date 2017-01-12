@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Thu, 29 Dec 2016 08:14:50 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 08:14:50 -0500</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2017 10:22:03 -0500</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2017 10:22:03 -0500</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,45 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 42: Surviving The App Store with Amir Rajan]]></title>
+      <description><![CDATA[<p>The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more.</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0042.Surviving.the.App.Store.with.Amir.Rajan.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/amirrajan">Amir Rajan</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="http://leanpub.com/survivingtheappstore/c/free">Surviving the App Store book</a></li>
+  <li><a href="http://amirrajan.net/">Amir’s Blog</a></li>
+  <li><a href="https://itunes.apple.com/us/developer/amirali-rajan/id736683064">Amir’s Games</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/A_Dark_Room">A Dark Room</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.com/?utm_source=link&amp;utm_medium=logo&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun2016.png" alt="http://raygun.com" /></a></p>
+
+<p><a href="https://raygun.com/?utm_source=link&amp;utm_medium=logo&amp;utm_campaign=gone-mobile">Raygun</a> provides <a href="https://raygun.com/products/crash-reporting?utm_source=link&amp;utm_medium=text&amp;utm_campaign=gone-mobile">error and crash reporting software</a> for all programming languages and platforms including iOS, Android, Xamarin, Javascript and more. Don’t just log errors and crashes, solve them with Raygun!</p>
+]]></description>
+      <link>http://gonemobile.io/blog/e0042.surviving.the.app.store.with.amir.rajan/</link>
+      <guid>http://gonemobile.io/blog/e0042.surviving.the.app.store.with.amir.rajan/</guid>
+      <pubDate>Thu, 12 Jan 2017 09:00:00 -0500</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more.]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration><![CDATA[3583.0]]></itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0042.Surviving.the.App.Store.with.Amir.Rajan.mp3" type="audio/mp3" length="70946652" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 41: Mobile Game Development and CocosSharp with Brent Edwards]]></title>
