@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Mon, 27 Feb 2017 16:15:06 -0500</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 16:15:06 -0500</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 22:15:52 -0500</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 22:15:52 -0500</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -74,7 +74,7 @@
       <itunes:summary><![CDATA[Ever wish you could automate more simple tasks in Xamarin Studio or Visual Studio for Mac?  Matthew Robbins' MFractor Addin may be exactly what you're looking for with several enhancements designed to speed up the Xamarin.Forms developer experience.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Ever wish you could automate more simple tasks in Xamarin Studio or Visual Studio for Mac?  Matthew Robbins' MFractor Addin may be exactly what you're looking for with several enhancements designed to speed up the Xamarin.Forms developer experience.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2342.0]]></itunes:duration>      
+      <itunes:duration>2342</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0043.MFractor.for.Xamarin.Studio.mp3" type="audio/mp3" length="32949572" />
     </item>
     
@@ -113,7 +113,7 @@
       <itunes:summary><![CDATA[The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more.]]></itunes:summary>
       <itunes:subtitle><![CDATA[The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3583.0]]></itunes:duration>      
+      <itunes:duration>3583</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0042.Surviving.the.App.Store.with.Amir.Rajan.mp3" type="audio/mp3" length="70946652" />
     </item>
     
@@ -151,7 +151,7 @@
       <itunes:summary><![CDATA[Interested in trying out some mobile game development but aren't sure where to start? In this episode we talk to Brent Edwards about how he got started, and how CocosSharp makes it easy to dive in and start creating the next big hit game!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Interested in trying out some mobile game development but aren't sure where to start? In this episode we talk to Brent Edwards about how he got started, and how CocosSharp makes it easy to dive in and start creating the next big hit game!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3263.0]]></itunes:duration>      
+      <itunes:duration>3263</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0041.Mobile.Game.Development.and.CocosSharp.with.Brent.Edwards.mp3" type="audio/mp3" length="70579650" />
     </item>
     
@@ -188,7 +188,7 @@
       <itunes:summary><![CDATA[Deep linking is a great way to help provide engaging experiences for your users, but how do you get started? What can you actually do with deep links? In this episode we talk to Sahil Verma about deep linking and what Branch is doing to help app developers deliver personalized experience for their users.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Deep linking is a great way to help provide engaging experiences for your users, but how do you get started? What can you actually do with deep links? In this episode we talk to Sahil Verma about deep linking and what Branch is doing to help app developers deliver personalized experience for their users.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2387.0]]></itunes:duration>      
+      <itunes:duration>2387</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0040.Deep.Linking.and.Branch.with.Sahil.Verma.mp3" type="audio/mp3" length="47479521" />
     </item>
     
@@ -237,7 +237,7 @@
       <itunes:summary><![CDATA[Want to know what this whole serverless thing is about? Learn all about it and what you can do with Azure Functions from Donna Malayeri and Fabio Cavalcante!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Want to know what this whole serverless thing is about? Learn all about it and what you can do with Azure Functions from Donna Malayeri and Fabio Cavalcante!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3617.0]]></itunes:duration>      
+      <itunes:duration>3617</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0039.Serverless.and.Azure.Functions.with.Donna.Malayeri.and.Fabio.Cavalcante.mp3" type="audio/mp3" length="71060154" />
     </item>
     
@@ -275,7 +275,7 @@
       <itunes:summary><![CDATA[In this episode we learn all about the Microsoft Graph API from Simon Jager, and how you can build your mobile apps on top of its offerings.]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we learn all about the Microsoft Graph API from Simon Jager, and how you can build your mobile apps on top of its offerings.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2575.0]]></itunes:duration>      
+      <itunes:duration>2575</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3" type="audio/mp3" length="Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3" />
     </item>
     
@@ -313,7 +313,7 @@
       <itunes:summary><![CDATA[Hybrid apps with Xamarin? You bet! In this episode we're joined by Drew Colthorp and Shawn Anderson to talk about why and how they converted their hybrid app, written in Ember, from Cordova to Xamarin.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Hybrid apps with Xamarin? You bet! In this episode we're joined by Drew Colthorp and Shawn Anderson to talk about why and how they converted their hybrid app, written in Ember, from Cordova to Xamarin.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3342.0]]></itunes:duration>      
+      <itunes:duration>3342</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0037.Hybrid.Xamarin.Apps.with.Drew.Colthorp.and.Shawn.Anderson.mp3" type="audio/mp3" length="67811409" />
     </item>
     
@@ -349,7 +349,7 @@
       <itunes:summary><![CDATA[In this episode we're joined by Rabeb Othmani to talk about Android Performance Tuning]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're joined by Rabeb Othmani to talk about Android Performance Tuning]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[1925.0]]></itunes:duration>      
+      <itunes:duration>1925</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0036.Android.Performance.Tuning.with.Rabeb.Othmani.mp3" type="audio/mp3" length="26485826" />
     </item>
     
@@ -386,7 +386,7 @@
       <itunes:summary><![CDATA[In this episode we're joined by Alexandra Marin to talk about Behavior Driven Development for Xamarin Developers]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're joined by Alexandra Marin to talk about Behavior Driven Development for Xamarin Developers]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[1802.0]]></itunes:duration>      
+      <itunes:duration>1802</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0035.Mobile.Testing.with.Alexandra.Marin.mp3" type="audio/mp3" length="22644517" />
     </item>
     
@@ -423,7 +423,7 @@
       <itunes:summary><![CDATA[In this episode we're joined by John-Daniel Trask, founder and CEO of Raygun, to talk about Pulse - their Real User Monitoring solution for web and mobile apps.]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're joined by John-Daniel Trask, founder and CEO of Raygun, to talk about Pulse - their Real User Monitoring solution for web and mobile apps.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3024.0]]></itunes:duration>      
+      <itunes:duration>3024</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0034.Raygun.Pulse.with.John.Daniel.Trask.mp3" type="audio/mp3" length="65016507" />
     </item>
     
@@ -463,7 +463,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[In this episode we're joined by Tim Anglade and Kristian Dupont from Realm, a mobile-focused database solution that recently launched support for Xamarin.]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're joined by Tim Anglade and Kristian Dupont from Realm, a mobile-focused database solution that recently launched support for Xamarin.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3553.0]]></itunes:duration>      
+      <itunes:duration>3553</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0033.Realm.with.Tim.Anglade.and.Kristian.Dupont.mp3" type="audio/mp3" length="78634754" />
     </item>
     
@@ -501,7 +501,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[In this episode we're joined by Barnabas Birmacher and Daniel Balla to talk about their continunous integration solution for mobile apps. Looking to get started adding CI for your apps? Listen in to find out how!]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're joined by Barnabas Birmacher and Daniel Balla to talk about their continunous integration solution for mobile apps. Looking to get started adding CI for your apps? Listen in to find out how!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2512.0]]></itunes:duration>      
+      <itunes:duration>2512</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0032.Bitrise.with.Barnabas.Birmacher.and.Daniel.Balla.mp3" type="audio/mp3" length="26423973" />
     </item>
     
@@ -541,7 +541,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[In this episode we talk to Michael Ridland about his experiences as a Xamarin consultant, and dig into his new MVVM framework made specifically for Xamarin Forms called FreshMvvm!]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we talk to Michael Ridland about his experiences as a Xamarin consultant, and dig into his new MVVM framework made specifically for Xamarin Forms called FreshMvvm!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2059.0]]></itunes:duration>      
+      <itunes:duration>2059</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0031.FreshMvvm.with.Michael.Ridland.mp3" type="audio/mp3" length="34582036" />
     </item>
     
@@ -582,7 +582,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2280.0]]></itunes:duration>      
+      <itunes:duration>2280</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0030.Hexagonal.App.Architecture.with.Chris.Williams.mp3" type="audio/mp3" length="43652218" />
     </item>
     
@@ -621,7 +621,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[This episode covers pretty much everything there is to know about Push Notifications.  From Apple’s APNS to Google’s C2DM and GCM, learn about what they are and how they work.  We also discuss the benefits and disadvantages of roll your own with PushSharp and using services like Azure, Amazon EC2, Urbanairship and Parse.]]></itunes:summary>
       <itunes:subtitle><![CDATA[This episode covers pretty much everything there is to know about Push Notifications.  From Apple’s APNS to Google’s C2DM and GCM, learn about what they are and how they work.  We also discuss the benefits and disadvantages of roll your own with PushSharp and using services like Azure, Amazon EC2, Urbanairship and Parse.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3184.0]]></itunes:duration>      
+      <itunes:duration>3184</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0029.Push.Notifications.mp3" type="audio/mp3" length="36587511" />
     </item>
     
@@ -661,7 +661,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[In this episode we're talking about Xamarin.Forms again, but this time around it's a bit different. We're joined once again by Jason Smith, lead developer of Xamarin.Forms, to take a look behind the scenes of Xamarin.Forms. We get into where it came from, inspirations, design decisions, triumps, mistakes, and more. Join us for this peek behind the curtain of creating the Xamarin.Forms framework!]]></itunes:summary>
       <itunes:subtitle><![CDATA[In this episode we're talking about Xamarin.Forms again, but this time around it's a bit different. We're joined once again by Jason Smith, lead developer of Xamarin.Forms, to take a look behind the scenes of Xamarin.Forms. We get into where it came from, inspirations, design decisions, triumps, mistakes, and more. Join us for this peek behind the curtain of creating the Xamarin.Forms framework!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3421.0]]></itunes:duration>      
+      <itunes:duration>3421</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0028.Behind.the.Scenes.of.Xamarin.Forms.with.Jason.Smith.mp3" type="audio/mp3" length="53142922" />
     </item>
     
@@ -702,7 +702,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Interested in getting started writing automated tests for your apps but don't know where to start? In this episode we're joined by Niels Frydenholm to talk about how his team set themselves up for success over at eBay.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Interested in getting started writing automated tests for your apps but don't know where to start? In this episode we're joined by Niels Frydenholm to talk about how his team set themselves up for success over at eBay.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2845.0]]></itunes:duration>      
+      <itunes:duration>2845</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0027.Automated.App.Testing.with.Niels.Frydenholm.mp3" type="audio/mp3" length="42581393" />
     </item>
     
@@ -743,7 +743,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Prism has been around for awhile, and now you can take advantage of it in your Xamarin.Forms apps! In this episode we dig into what Prism is, why you'd want to use it in your mobile apps, and how it fits into Xamarin.Forms apps.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Prism has been around for awhile, and now you can take advantage of it in your Xamarin.Forms apps! In this episode we dig into what Prism is, why you'd want to use it in your mobile apps, and how it fits into Xamarin.Forms apps.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2746.0]]></itunes:duration>      
+      <itunes:duration>2746</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0026.Prism.for.Xamarin.Forms.with.Brian.Lagunas.mp3" type="audio/mp3" length="43444867" />
     </item>
     
@@ -782,7 +782,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Performance is a huge and important topic, so one episode just wasn't enough. In this episode we talk to Harry Cheung about the performance tests he's been running to see just how all these different mobile app development approaches perform when it comes to raw computation.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Performance is a huge and important topic, so one episode just wasn't enough. In this episode we talk to Harry Cheung about the performance tests he's been running to see just how all these different mobile app development approaches perform when it comes to raw computation.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2744.0]]></itunes:duration>      
+      <itunes:duration>2744</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone_Mobile_E0025.Performance.Comparisons.Part.Two.with.Harry.Cheung.mp3" type="audio/mp3" length="46221746" />
     </item>
     
@@ -821,7 +821,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Ever wanted to know how different app frameworks and approaches compare with each other when it comes to performance? In this episode we spoke to Kevin Ford to dig into exactly that. Join us for a look at how the native SDKs, Xamarin, and Cordova compare for various performance measurements.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Ever wanted to know how different app frameworks and approaches compare with each other when it comes to performance? In this episode we spoke to Kevin Ford to dig into exactly that. Join us for a look at how the native SDKs, Xamarin, and Cordova compare for various performance measurements.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3246.0]]></itunes:duration>      
+      <itunes:duration>3246</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0024.Cross.Platform.Performance.Comparisons.with.Kevin.Ford.mp3" type="audio/mp3" length="50070919" />
     </item>
     
@@ -859,7 +859,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Continuous integration and delivery is commonplace in the web development world, but has been notoriously difficult to achieve with mobile apps. In this episode we talk to Felix Krause about his fastlane tools that aim to solve multiple pain points in iOS development and deployment by automating everything.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Continuous integration and delivery is commonplace in the web development world, but has been notoriously difficult to achieve with mobile apps. In this episode we talk to Felix Krause about his fastlane tools that aim to solve multiple pain points in iOS development and deployment by automating everything.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2488.0]]></itunes:duration>      
+      <itunes:duration>2488</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0023.Continuous.Delivery.for.iOS.Apps.mp3" type="audio/mp3" length="39776292" />
     </item>
     
@@ -915,7 +915,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[When it comes to designing and consuming APIs there is no shortage of approaches out there. In this episode we talk to Darrel Miller about many of these approaches, and ways to design both sides in a modern way to help keep things maintainable and evolvable over time.]]></itunes:summary>
       <itunes:subtitle><![CDATA[When it comes to designing and consuming APIs there is no shortage of approaches out there. In this episode we talk to Darrel Miller about many of these approaches, and ways to design both sides in a modern way to help keep things maintainable and evolvable over time.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[4259.0]]></itunes:duration>      
+      <itunes:duration>4259</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0022.Designing.and.Consuming.Modern.APIs.with.Darrel.Miller.mp3" type="audio/mp3" length="67377616" />
     </item>
     
@@ -953,7 +953,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Learning to write iOS apps can be a daunting task, especially if you've never written any code before. In this episode we're joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Learning to write iOS apps can be a daunting task, especially if you've never written any code before. In this episode we're joined by Reinder de Vries to talk about his approach to teaching people how to write iOS apps, and his experiences along the way.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2239.0]]></itunes:duration>      
+      <itunes:duration>2239</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0021.Learning.iOS.mp3" type="audio/mp3" length="35877716" />
     </item>
     
@@ -997,7 +997,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Performance matters, especially when it comes to mobile development. Join us as we talk to Tammy Everts about the ins and outs of mobile web performance!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Performance matters, especially when it comes to mobile development. Join us as we talk to Tammy Everts about the ins and outs of mobile web performance!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3554.0]]></itunes:duration>      
+      <itunes:duration>3554</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0020.Mobile.Web.Performance.with.Tammy.Everts.mp3" type="audio/mp3" length="55610512" />
     </item>
     
@@ -1036,7 +1036,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[APIs have historically been difficult to debug and monitor, and Runscope was founded to help solve this problem. Join us as we talk to John Sheehan about what Runscope offers, and how developers can leverage it to make API development more enjoyable.]]></itunes:summary>
       <itunes:subtitle><![CDATA[APIs have historically been difficult to debug and monitor, and Runscope was founded to help solve this problem. Join us as we talk to John Sheehan about what Runscope offers, and how developers can leverage it to make API development more enjoyable.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2744.0]]></itunes:duration>      
+      <itunes:duration>2744</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0019.Runscope.with.John.Sheehan.mp3" type="audio/mp3" length="43959784" />
     </item>
     
@@ -1079,7 +1079,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Security is more important today than ever, and mobile apps are no different. Troy Hunt joins us to talk about some common mistakes developers make when developing APIs and apps, and some practical approaches to securing them.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Security is more important today than ever, and mobile apps are no different. Troy Hunt joins us to talk about some common mistakes developers make when developing APIs and apps, and some practical approaches to securing them.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3811.0]]></itunes:duration>      
+      <itunes:duration>3811</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0018.Securing.Mobile.Apps.with.Troy.Hunt.mp3" type="audio/mp3" length="61026336" />
     </item>
     
@@ -1121,7 +1121,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Join us again for our annual show discussing all the new features in the latest version of iOS!  Mike Bluestein joins us once more, and there's lots to talk about!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Join us again for our annual show discussing all the new features in the latest version of iOS!  Mike Bluestein joins us once more, and there's lots to talk about!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3967.0]]></itunes:duration>      
+      <itunes:duration>3967</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0017.Whats.New.in.iOS.8.mp3" type="audio/mp3" length="63532025" />
     </item>
     
@@ -1162,7 +1162,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they're used, and where beacons are heading in the future.]]></itunes:summary>
       <itunes:subtitle><![CDATA[iBeacons are an emerging technology with a lot of exciting applications. In this episode we talked to Doug Thompson to dive into what they are, how they're used, and where beacons are heading in the future.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3045.0]]></itunes:duration>      
+      <itunes:duration>3045</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0016.iBeacons.mp3" type="audio/mp3" length="48732834" />
     </item>
     
@@ -1195,7 +1195,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Learn all about Azure Mobile Services from some fine folks at Microsoft.  We sit down with Kirill and Yavor to talk about the many features of Azure, specifically relating to mobile!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Learn all about Azure Mobile Services from some fine folks at Microsoft.  We sit down with Kirill and Yavor to talk about the many features of Azure, specifically relating to mobile!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3183.0]]></itunes:duration>      
+      <itunes:duration>3183</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0015.Azure.Mobile.Services.mp3" type="audio/mp3" length="38208228" />
     </item>
     
@@ -1229,7 +1229,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Not every app has to have a massive budget.  Kevin Knoop joins us this episode to talk about his experiences with building apps on the cheap.  You'll be surprised how little his House Alarm app costs him to run!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Not every app has to have a massive budget.  Kevin Knoop joins us this episode to talk about his experiences with building apps on the cheap.  You'll be surprised how little his House Alarm app costs him to run!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2192.0]]></itunes:duration>      
+      <itunes:duration>2192</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0014.Building.Apps.on.the.Cheap.mp3" type="audio/mp3" length="43898470" />
     </item>
     
@@ -1262,7 +1262,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Learn how to build cross platform, native apps using Xamarin.Forms!  We talk to Jason Smith, one of the developers of Xamarin.Forms about the product, it's strengths and weaknesses over other MVVM libraries, and how to get started!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Learn how to build cross platform, native apps using Xamarin.Forms!  We talk to Jason Smith, one of the developers of Xamarin.Forms about the product, it's strengths and weaknesses over other MVVM libraries, and how to get started!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2443.0]]></itunes:duration>      
+      <itunes:duration>2443</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0013.Xamarin.Forms.mp3" type="audio/mp3" length="34217673" />
     </item>
     
@@ -1296,7 +1296,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Find out what exactly AppLinks are, how they work, and how you can use Rivets to add support for them to your own .NET apps.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Find out what exactly AppLinks are, how they work, and how you can use Rivets to add support for them to your own .NET apps.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[1768.0]]></itunes:duration>      
+      <itunes:duration>1768</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0012.AppLinks.are.Riveting.mp3" type="audio/mp3" length="21217630" />
     </item>
     
@@ -1330,7 +1330,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[James Montemagno from Xamarin discusses Portable Class Libraries with us.  Learn what PCL's are, how to use them in your Xamarin projects, and what the Advanced PCL or Bait and Switch PCL trick exactly is (hint: use platform specific code with PCL's!).]]></itunes:summary>
       <itunes:subtitle><![CDATA[James Montemagno from Xamarin discusses Portable Class Libraries with us.  Learn what PCL's are, how to use them in your Xamarin projects, and what the Advanced PCL or Bait and Switch PCL trick exactly is (hint: use platform specific code with PCL's!).]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2313.0]]></itunes:duration>      
+      <itunes:duration>2313</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0011.Portable.Class.Libraries.mp3" type="audio/mp3" length="27760701" />
     </item>
     
@@ -1364,7 +1364,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Wayne Carter from Couchbase and Zack Gramana from Xamarin talk to us about Couchbase Lite for Mobile.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Wayne Carter from Couchbase and Zack Gramana from Xamarin talk to us about Couchbase Lite for Mobile.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3827.0]]></itunes:duration>      
+      <itunes:duration>3827</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0010.Couchbase.Lite.mp3" type="audio/mp3" length="45933004" />
     </item>
     
@@ -1395,7 +1395,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[John Sonmez talks to us about the importance of building a strong personal brand in software development. John discusses not only why it's important, but how developers can get out there to start marketing themselves and building their brand.]]></itunes:summary>
       <itunes:subtitle><![CDATA[John Sonmez talks to us about the importance of building a strong personal brand in software development. John discusses not only why it's important, but how developers can get out there to start marketing themselves and building their brand.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3264.0]]></itunes:duration>      
+      <itunes:duration>3264</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0009.Marketing.Yourself.with.John.Sonmez.mp3" type="audio/mp3" length="39176616" />
     </item>
     
@@ -1428,7 +1428,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Ben's been working on an interesting new framework called Monkey Arms which is inspired by Robot Legs for Flash.]]></itunes:summary>
       <itunes:subtitle><![CDATA[Ben's been working on an interesting new framework called Monkey Arms which is inspired by Robot Legs for Flash.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3035.0]]></itunes:duration>      
+      <itunes:duration>3035</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0008.Ben.Bishops.Monkey.Arms.mp3" type="audio/mp3" length="36433941" />
     </item>
     
@@ -1462,7 +1462,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[We force Frank Krueger to talk to us about F#!]]></itunes:summary>
       <itunes:subtitle><![CDATA[We force Frank Krueger to talk to us about F#!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3290.0]]></itunes:duration>      
+      <itunes:duration>3290</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0007.The.FSharp.Is.For.Frank.Krueger.mp3" type="audio/mp3" length="39487760" />
     </item>
     
@@ -1498,7 +1498,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Jesse Liberty talks to us about his recent ventures into Mobile development with Xamarin.Android!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Jesse Liberty talks to us about his recent ventures into Mobile development with Xamarin.Android!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3676.0]]></itunes:duration>      
+      <itunes:duration>3676</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0006.Jesse.Liberty.Xamarin.Android.mp3" type="audio/mp3" length="44116577" />
     </item>
     
@@ -1534,7 +1534,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[We sit down with Jonathan Peppers from Hitcents to talk about writing Games using MonoGame and Xamarin for iOS, Android, Windows and more!]]></itunes:summary>
       <itunes:subtitle><![CDATA[We sit down with Jonathan Peppers from Hitcents to talk about writing Games using MonoGame and Xamarin for iOS, Android, Windows and more!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[2952.0]]></itunes:duration>      
+      <itunes:duration>2952</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0005.MonoGame.Jonathan.Peppers.mp3" type="audio/mp3" length="35431908" />
     </item>
     
@@ -1567,7 +1567,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[We sit down with John-Daniel Trask and Jeremy Boyd of Mindscape to talk about their Error Reporting service Raygun.io and how it fits in with Mobile and Xamarin apps.]]></itunes:summary>
       <itunes:subtitle><![CDATA[We sit down with John-Daniel Trask and Jeremy Boyd of Mindscape to talk about their Error Reporting service Raygun.io and how it fits in with Mobile and Xamarin apps.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3102.0]]></itunes:duration>      
+      <itunes:duration>3102</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0004.Tracking.Errors.with.Raygun.mp3" type="audio/mp3" length="37232162" />
     </item>
     
@@ -1603,7 +1603,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Paul Betts talks with us about all things Reactive: Reactive Extensions (Rx), Reactive UI (RxUI), and how they fit together in a Microsoft and Xamarin mobile world.  Paul also discusses his Akavache and Splat libraries, and his new Live-coding experiment!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Paul Betts talks with us about all things Reactive: Reactive Extensions (Rx), Reactive UI (RxUI), and how they fit together in a Microsoft and Xamarin mobile world.  Paul also discusses his Akavache and Splat libraries, and his new Live-coding experiment!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3369.0]]></itunes:duration>      
+      <itunes:duration>3369</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0003.Bettsing.On.Reactive.mp3" type="audio/mp3" length="40432870" />
     </item>
     
@@ -1650,7 +1650,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[What's new in iOS7? In this episode, we talk to [Mike Bluestein](http://twitter.com/mikebluestein) from Xamarin to hear his thoughts on some of the new iOS7 API's such as UIKit Dynamics, Sprite Kit, Text Kit and more!  We also debate the merits of the new iPhone 5C, and discuss the other new hardware including Touch ID.]]></itunes:summary>
       <itunes:subtitle><![CDATA[What's new in iOS7? In this episode, we talk to [Mike Bluestein](http://twitter.com/mikebluestein) from Xamarin to hear his thoughts on some of the new iOS7 API's such as UIKit Dynamics, Sprite Kit, Text Kit and more!  We also debate the merits of the new iPhone 5C, and discuss the other new hardware including Touch ID.]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3679.0]]></itunes:duration>      
+      <itunes:duration>3679</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0002.iOS7.Loving.the.Tint.mp3" type="audio/mp3" length="27610851" />
     </item>
     
@@ -1685,7 +1685,7 @@ Raygun.io is the fastest and easiest way to track your application’s errors an
       <itunes:summary><![CDATA[Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!]]></itunes:summary>
       <itunes:subtitle><![CDATA[Our First episode!  Introductions, iOS 7, Chromecast, Microsoft minus Ballmer, Why .NET Failed, Wearable tech, and Leap Motion!]]></itunes:subtitle>
       <itunes:keywords><![CDATA[]]></itunes:keywords>
-      <itunes:duration><![CDATA[3197.0]]></itunes:duration>      
+      <itunes:duration>3197</itunes:duration>      
       <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0001.Hello.World.mp3" type="audio/mp3" length="38363345" />
     </item>
     
