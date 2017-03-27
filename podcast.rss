@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Mon, 06 Mar 2017 09:34:52 -0500</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 09:34:52 -0500</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2017 08:41:13 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 08:41:13 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,46 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 45: Azure IoT with Amanda Lange]]></title>
+      <description><![CDATA[<p>Over the last few years the Internet of Things has taken over the world, but what is it and what can you do with it? In this episode we’re joined by Amanda Lange to walk through what it is, what kinds of experiences you can enable, and how Azure can help you manage your devices and create applications.</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0045.Azure.IoT.with.Amanda.Lange.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/second_truth">Amanda Lange</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="http://azure.com/iotdev">Azure IoT Developer Center</a></li>
+  <li><a href="https://github.com/Azure/azure-iot-sdks">Azure IoT SDKs</a></li>
+  <li><a href="https://developer.microsoft.com/en-us/windows/iot">Windows 10 IoT Core</a></li>
+  <li><a href="https://github.com/ms-iot">Microsot IoT Samples</a></li>
+  <li><a href="https://microsoft.github.io/techcasestudies/">Case Studies</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.com/?utm_source=link&amp;utm_medium=logo&amp;utm_campaign=gone-mobile"><img src="/images/sponsors/raygun2016.png" alt="http://raygun.com" /></a></p>
+
+<p><a href="https://raygun.com/?utm_source=link&amp;utm_medium=logo&amp;utm_campaign=gone-mobile">Raygun</a> provides <a href="https://raygun.com/products/crash-reporting?utm_source=link&amp;utm_medium=text&amp;utm_campaign=gone-mobile">error and crash reporting software</a> for all programming languages and platforms including iOS, Android, Xamarin, Javascript and more. Don’t just log errors and crashes, solve them with Raygun!</p>
+]]></description>
+      <link>http://gonemobile.io/blog/e0045.azure.iot.with.amanda.lange/</link>
+      <guid>http://gonemobile.io/blog/e0045.azure.iot.with.amanda.lange/</guid>
+      <pubDate>Mon, 27 Mar 2017 09:00:00 -0400</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[Over the last few years the Internet of Things has taken over the world, but what is it and what can you do with it? In this episode we're joined by Amanda Lange to walk through what it is, what kinds of experiences you can enable, and how Azure can help you manage your devices and create applications.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Over the last few years the Internet of Things has taken over the world, but what is it and what can you do with it? In this episode we're joined by Amanda Lange to walk through what it is, what kinds of experiences you can enable, and how Azure can help you manage your devices and create applications.]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration>2858</itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0045.Azure.IoT.with.Amanda.Lange.mp3" type="audio/mp3" length="57016403" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 44: Fluxing Up Your Xamarin Apps with Alex Dunn]]></title>
