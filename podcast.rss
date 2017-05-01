@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Mon, 01 May 2017 09:31:28 -0400</pubDate>
-    <lastBuildDate>Mon, 01 May 2017 09:31:28 -0400</lastBuildDate>
+    <pubDate>Mon, 01 May 2017 09:35:16 -0400</pubDate>
+    <lastBuildDate>Mon, 01 May 2017 09:35:16 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
