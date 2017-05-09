@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Mon, 01 May 2017 09:35:16 -0400</pubDate>
-    <lastBuildDate>Mon, 01 May 2017 09:35:16 -0400</lastBuildDate>
+    <pubDate>Tue, 09 May 2017 08:52:55 -0400</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 08:52:55 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,44 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 48: Mobile App Security Testing with Martin Alderson]]></title>
+      <description><![CDATA[<p>How do you prevent your app from shipping with preventable security vulnerabilities? This episode we talk to Martin Alderson of Codified Security about their automated Mobile App Security testing service.</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0048.Mobile.App.Security.Testing.with.Martin.Alderson.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Hosts:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/martinald">Martin Alderson</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="https://codifiedsecurity.com/">Codified Security</a></li>
+  <li><a href="https://codifiedsecurity.com/xamarin-app-security-testing/">Xamarin App Security Testing</a></li>
+  <li><a href="https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10">OWASP Mobile Top 10</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.com/?utm_source=gonemobile"><img src="/images/sponsors/raygun2017.png" alt="http://raygun.com" /></a></p>
+
+<p>Thanks to our sponsor <a href="https://raygun.com/?utm_source=gone-mobile">Raygun</a>. Discover, diagnose and understand the root cause of error, crash and performance issues in your software applications in seconds! See how your applications are <em>really</em> performing for users and where they encounter problems using Raygun’s full stack <a href="https://raygun.com/?utm_source=gone-mobile">software intelligence platform</a>.</p>
+]]></description>
+      <link>http://gonemobile.io/blog/e0048.mobile.app.security.testing.with.martin.alderson/</link>
+      <guid>http://gonemobile.io/blog/e0048.mobile.app.security.testing.with.martin.alderson/</guid>
+      <pubDate>Tue, 09 May 2017 09:00:00 -0400</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[How do you prevent your app from shipping with preventable security vulnerabilities? This episode we talk to Martin Alderson of Codified Security about their automated Mobile App Security testing service.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How do you prevent your app from shipping with preventable security vulnerabilities? This episode we talk to Martin Alderson of Codified Security about their automated Mobile App Security testing service.]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration>1678</itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0048.Mobile.App.Security.Testing.with.Martin.Alderson.mp3" type="audio/mp3" length="34071841" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 47: Building Reactive Apps with Xamarin.Forms and F# with Rob Lyndon]]></title>
