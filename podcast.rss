@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Mon, 22 May 2017 07:57:58 -0400</pubDate>
-    <lastBuildDate>Mon, 22 May 2017 07:57:58 -0400</lastBuildDate>
+    <pubDate>Wed, 31 May 2017 08:48:22 -0400</pubDate>
+    <lastBuildDate>Wed, 31 May 2017 08:48:22 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,44 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 51: React Native, Mobile Center, and Continuous Deployment with Ryan Salva and Joe Mellin]]></title>
+      <description><![CDATA[<p>Heard of React Native but not sure what the hype is all about? We’ve got you covered! At Microsoft’s Build conference we sat down with Ryan Salva and Joe Mellin from the Mobile Center team to chat through React Native, how it works, and how it compares to other approaches such as Xamarin. We also dig into the full app development lifecycle, and how React Native and Mobile Center can help you continuously deliver quality apps to your users.</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0051.React.Native.Mobile.Center.and.Continuous.Delivery.with.Ryan.Salva.and.Joe.Mellin.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Host:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/ryanjsalva">Ryan Salva</a>, <a href="https://twitter.com/joemellin">Joe Mellin</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="https://facebook.github.io/react-native/">React Native</a></li>
+  <li><a href="https://www.visualstudio.com/vs/mobile-center/">Mobile Center</a></li>
+  <li><a href="http://microsoft.github.io/code-push/">CodePush</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.com/?utm_source=gonemobile"><img src="/images/sponsors/raygun2017.png" alt="http://raygun.com" /></a></p>
+
+<p>Thanks to our sponsor <a href="https://raygun.com/?utm_source=gone-mobile">Raygun</a>. Discover, diagnose and understand the root cause of error, crash and performance issues in your software applications in seconds! See how your applications are <em>really</em> performing for users and where they encounter problems using Raygun’s full stack <a href="https://raygun.com/?utm_source=gone-mobile">software intelligence platform</a>.</p>
+]]></description>
+      <link>http://gonemobile.io/blog/e0051.react.native.mobile.center.and.continuous.delivery.with.ryan.salva.and.joe.mellin/</link>
+      <guid>http://gonemobile.io/blog/e0051.react.native.mobile.center.and.continuous.delivery.with.ryan.salva.and.joe.mellin/</guid>
+      <pubDate>Wed, 31 May 2017 09:00:00 -0400</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[Heard of React Native but not sure what the hype is all about? We've got you covered! At Microsoft's Build conference we sat down with Ryan Salva and Joe Mellin from the Mobile Center team to chat through React Native, how it works, and how it compares to other approaches such as Xamarin. We also dig into the full app development lifecycle, and how React Native and Mobile Center can help you continuously deliver quality apps to your users.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Heard of React Native but not sure what the hype is all about? We've got you covered! At Microsoft's Build conference we sat down with Ryan Salva and Joe Mellin from the Mobile Center team to chat through React Native, how it works, and how it compares to other approaches such as Xamarin. We also dig into the full app development lifecycle, and how React Native and Mobile Center can help you continuously deliver quality apps to your users.]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration>2653</itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0051.React.Native.Mobile.Center.and.Continuous.Delivery.with.Ryan.Salva.and.Joe.Mellin.mp3" type="audio/mp3" length="56822355" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 50: Building Great App Experiences with Matt Lacey]]></title>
