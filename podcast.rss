@@ -6,8 +6,8 @@
     <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
     <atom:link href="http://feed.gonemobile.io/" rel="self" type="application/rss+xml"/>    
     <language>en-us</language>
-    <pubDate>Wed, 28 Jun 2017 08:12:12 -0400</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 08:12:12 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Jul 2017 09:19:49 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2017 09:19:49 -0400</lastBuildDate>
     <copyright><![CDATA[Greg Shackles, Jonathan Dick 2014-2016]]></copyright>
     <description><![CDATA[Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies and .NET / C#. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.]]></description>
     <image>
@@ -40,6 +40,44 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
+    
+    <item>
+      <title><![CDATA[Gone Mobile 53: Xamarin.Forms Update with David Ortinau]]></title>
+      <description><![CDATA[<p>On this state of the Xamarin.Forms union, we are joined by long time Xamarin community member and now PM of the Xamarin.Forms team, David Ortinau.  We discuss Xamarin.Forms becoming open source, XAML Standard, Forms Embedding (and Embedded Forms), Fast Renderers, and what’s next for Xamarin.Forms.</p>
+
+<!-- more -->
+
+<audio controls=""><source src="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0053.Xamarin.Forms.Update.with.David.Ortinau.mp3" type="audio/mpeg" preload="none" /></audio>
+
+<p><strong>Host:</strong> <a href="http://twitter.com/gshackles">Greg Shackles</a>, <a href="http://twitter.com/redth">Jon Dick</a></p>
+
+<p><strong>Guests:</strong> <a href="https://twitter.com/davidortinau">David Ortinau</a></p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+  <li><a href="https://github.com/xamarin/xamarin.forms">Xamarin.Forms Open Source</a></li>
+  <li><a href="https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/">Embedding Xamarin.Forms in Xamarin Native</a></li>
+  <li><a href="https://blog.xamarin.com/glimpse-future-xamarin-forms-3-0/">Glimpse the future of Xamarin.Forms 3.0</a></li>
+</ul>
+
+<p><strong>Thanks to our Sponsors!</strong></p>
+
+<p><a href="https://raygun.com/?utm_source=gonemobile"><img src="/images/sponsors/raygun2017.png" alt="http://raygun.com" /></a></p>
+
+<p>Thanks to our sponsor <a href="https://raygun.com/?utm_source=gone-mobile">Raygun</a>. Discover, diagnose and understand the root cause of error, crash and performance issues in your software applications in seconds! See how your applications are <em>really</em> performing for users and where they encounter problems using Raygun’s full stack <a href="https://raygun.com/?utm_source=gone-mobile">software intelligence platform</a>.</p>
+]]></description>
+      <link>http://gonemobile.io/blog/e0053.xamarin.forms.update.with.david.ortinau/</link>
+      <guid>http://gonemobile.io/blog/e0053.xamarin.forms.update.with.david.ortinau/</guid>
+      <pubDate>Thu, 13 Jul 2017 09:15:00 -0400</pubDate>
+      <itunes:image href="http://gonemobile.io/images/Gone-Mobile-Podcast-Feed-Logo.png" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:summary><![CDATA[On this state of the Xamarin.Forms union, we are joined by long time Xamarin community member and now PM of the Xamarin.Forms team, David Ortinau.  We discuss Xamarin.Forms becoming open source, XAML Standard, Forms Embedding (and Embedded Forms), Fast Renderers, and what's next for Xamarin.Forms.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[On this state of the Xamarin.Forms union, we are joined by long time Xamarin community member and now PM of the Xamarin.Forms team, David Ortinau.  We discuss Xamarin.Forms becoming open source, XAML Standard, Forms Embedding (and Embedded Forms), Fast Renderers, and what's next for Xamarin.Forms.]]></itunes:subtitle>
+      <itunes:keywords><![CDATA[]]></itunes:keywords>
+      <itunes:duration>3428</itunes:duration>      
+      <enclosure url="http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0053.Xamarin.Forms.Update.with.David.Ortinau.mp3" type="audio/mp3" length="58569231" />
+    </item>
     
     <item>
       <title><![CDATA[Gone Mobile 52: Mobile-Powered Baseball Scouting with Jeremy Raadt]]></title>
